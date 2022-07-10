@@ -1,0 +1,28 @@
+{
+  "name": "@rbower/playwright-base",
+  "version": "0.2.0",
+  "private": true,
+  "license": "MIT",
+  "author": "my-element",
+  "main": "index.js",
+  "module": "index.js",
+  "scripts": {
+    "test": "playwright test --config playwright.config.ts"
+  },
+  "dependencies": {
+    "lit-element": "2.5.1",
+    "lit-html": "1.4.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.23.2",
+    "@typescript-eslint/eslint-plugin": "^5.30.5",
+    "@typescript-eslint/parser": "^5.30.5",
+    "eslint": "^8.19.0",
+    "eslint-config-rbower-react": "^1.0.3",
+    "eslint-config-rbower-typescript": "^1.0.4",
+    "eslint-plugin-import": "^2.26.0",
+    "playwright": "^1.23.2",
+    "typescript": "^4.7.4"
+  },
+  "packageManager": "pnpm@7.1.0"
+}

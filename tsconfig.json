@@ -1,0 +1,22 @@
+{
+  // https://www.typescriptlang.org/tsconfig#Basic_Options_6172
+  "compilerOptions": {
+    "baseUrl": "./",
+    "lib": ["esnext", "es2020", "dom"],
+    "jsx": "preserve",
+    "resolveJsonModule": true,
+    "moduleResolution": "node",
+    "strict": false,
+    "experimentalDecorators": true,
+    "typeRoots": ["node_modules/@types"],
+    "allowJs": true,
+    "target": "esnext",
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "noImplicitAny": false,
+    "noImplicitThis": false,
+    "strictNullChecks": true,
+  },
+  "include": ["src/**/*.ts", "test/**/*.ts"]
+}
