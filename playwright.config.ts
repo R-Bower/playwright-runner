@@ -8,6 +8,7 @@ const config: PlaywrightTestConfig = {
         ...devices["Desktop Chrome"],
         headless: false,
         launchOptions: {slowMo: 10},
+        viewport: {height: 1304, width: 1157},
       },
     },
   ],

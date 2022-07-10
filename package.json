@@ -22,6 +22,7 @@
     "eslint-config-rbower-typescript": "^1.0.4",
     "eslint-plugin-import": "^2.26.0",
     "playwright": "^1.23.2",
+    "rambda": "^7.1.4",
     "typescript": "^4.7.4"
   },
   "packageManager": "pnpm@7.1.0"
