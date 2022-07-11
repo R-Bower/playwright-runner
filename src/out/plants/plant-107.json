@@ -1,0 +1,63 @@
+{
+  "data": {
+    "description": [
+      "Add some greenery to your home with this beautiful bundle. It combines two of our favorite low-maintenance plants. They're both easy to care for, but the similarities end there. The money plant, which is thought to bring good fortune, has thin stalks with big round leaves. Meanwhile, the snake plant, which symbolizes growth, has sharp variegated spears. You get two of each — keep them together for a striking contrast."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "4\" to 6\" W 8\" to 12\" H"
+      }
+    ],
+    "title": "Ying-Yang Plant Bundle",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5a27f7cb9fe0--SnakesAndMoney-Grower1-4-d4e004.jpg?v=1624917906",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$129.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5a27f7cb9fe0--SnakesAndMoney-LRCoco1-4-557650.jpg?v=1624918152",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$169.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5a27f7cb9fe0--SnakesAndMoney-White1-4-a8860e.jpg?v=1624918333",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$177.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5a27f7cb9fe0--snakesandmoneyMedium-56ad38.jpeg?v=1624922169",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$170.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

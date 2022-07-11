@@ -1,0 +1,94 @@
+{
+  "data": {
+    "description": [
+      "The Golden Pothos is one of the worlds' best-selling plants, and for a good reason! They are basically impossible to kill and thrives in situations other plants can't handle. Golden pothos is so low-maintenance they have a reputation for being impossible to kill — hence their nickname, devil's ivy. They don't need much water, and they are quite happy in darker parts of your home. They can survive almost anything: from a few weeks without water to being placed in a room with low light. Not only are they easy to maintain, but the Golden Pothos is also extremely beautiful. A must for any Green Space!",
+      "A natural air purifier, this golden pothos makes an ideal addition to your bedroom. Because of the attractive way their leaves drape, they are a popular option for hanging plants. Enjoy your plant hanging in the original grower pot or remove the hanger and admire them in the decorative pot of your choosing! Either one is a great display!"
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "4\" to 6\" W 6\" to 8\" H"
+      }
+    ],
+    "title": "Everyone's Favorite Golden Pothos",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/a4509b6c00c3--pl-GoldenPothos-4IN-po-grower-ebbc10.jpg?v=1643047780",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/a4509b6c00c3--pl-GoldenPothos-4IN-po-lr-coco-9dbf69.jpg?v=1643047991",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/a4509b6c00c3--pl-GoldenPothos-4IN-po-basket-b59594.jpg?v=1643048031",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/a4509b6c00c3--pl-GoldenPothos-4IN-po-cer-white-b06a90.jpg?v=1643047880",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/a4509b6c00c3--Pothos-Grower-6-9c48f5.jpg?v=1622124056",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/a4509b6c00c3--Pothos-LRCoco-6-98709a.jpg?v=1622124180",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/a4509b6c00c3--Pothos-White-6-a9aec0.jpg?v=1622124080",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/a4509b6c00c3--d700f61bdc7d-pl-GoldenPothos-8IN-po-grower-730x-99adc2.jpeg?v=1639778767",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$86.00"
+          }
+        ],
+        "sizeId": "large",
+        "sizeLabel": "L"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "data": {
+    "description": [
+      "Hearty, deep sea-green leaves topped with flowers that come in a range of colors. This bundle includes 4 small (4\" pot diameter) African Violet plants. Colors will vary based on availability.",
+      "African Violets (Saintpaulia species) are super easy to care for and offer abundant flowers. Place them near a north or east-facing window that receives ample indirect light; keep them warm (between 65-80 degrees Fahrenheit) with 8 hours of darkness each night, and provide ample humidity.",
+      "*Our blooms vary and may not arrive as they are pictured. We ship our plants still in buds, so you can enjoy a fresh bloom in your home.*"
+    ],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "4\" to 5\" W 5\" to 6\" H"
+      }
+    ],
+    "title": "African Violet: 4 Pack",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/232aa40e768f--pl-bundl-afric-viol-4IN4-Grower-a63a9a.jpg?v=1611338247",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$129.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/232aa40e768f--pl-bundl-afric-viol-4IN-Ceramic-White-53905a.jpg?v=1611338311",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$177.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      }
+    ]
+  }
+}

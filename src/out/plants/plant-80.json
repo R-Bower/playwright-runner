@@ -1,0 +1,48 @@
+{
+  "data": {
+    "description": [
+      "1000% ROMANTIC.  Variegated Pink Miniature Rose (Rosa chinensis minima) has a delicate fragrance and blooms in flushes during the growing season. The bloom size is about 1 1/2 inches wide with pink to red petals derivative of a kiss blown in the wind from Cupid. She will put on a love feast for all the pollinators between late April and September, so get your cameras ready! The green foliage makes a nice collar effect to the double-flowered cultivar we call Rosie! Expect her to top out at 12-18 inches tall.",
+      "*Our blooms vary and may not arrive as they are pictured. We ship our plants still in buds, so you can enjoy a fresh bloom in your home.*"
+    ],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      }
+    ],
+    "title": "Variegated Pink Miniature Roses",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/0d7aa623563d--pl-MiniRoseVariegatedPink-4IN-pl-Grower-ef3cd7.jpg?v=1643974961",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/0d7aa623563d--pl-MiniRoseVariegatedPink-4IN-pl-lr-coco-8c8f67.jpg?v=1643975101",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/0d7aa623563d--pl-MiniRoseVariegatedPink-4IN-pl-basket-127984.jpg?v=1643975060",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/0d7aa623563d--pl-MiniRoseVariegatedPink-4IN-pl-cer-white-a1d8da.jpg?v=1643974988",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      }
+    ]
+  }
+}

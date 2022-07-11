@@ -1,0 +1,58 @@
+{
+  "data": {
+    "description": [
+      "Mandevilla Madinia® Maximo Red (Dipladenia) is a flowering vine that has a fuller shape than Mandevilla. This one has smaller leaves that are deep green and slightly glossy compared to their larger, broader-shaped Mandevilla vine leaves. This Dipladenia vine doesn't need staking but sends out a bushier growth growing downward and hanging, making them a perfect hanging basket or window box display! The rich cranberry trumpet-shaped flowers call in the butterflies and hummingbirds to add to your pollinator garden!",
+      "*Our blooms vary and may not arrive as they are pictured. We ship our plants still in buds, so you can enjoy a fresh bloom in your home.*"
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "Plays Hard to Get"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "6\" to 10\" W 14\" to 18\" H"
+      }
+    ],
+    "title": "Mandevilla Red",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/d4422d4bc5e8--pl-MadavillaRed-6IN-po-grower-8b2bf7.jpg?v=1635530720",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/d4422d4bc5e8--pl-MadavillaRed-6IN-po-lr-coco-b98cb8.jpg?v=1635530876",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/d4422d4bc5e8--pl-MadavillaRed-6IN-po-basket-661c9a.jpg?v=1635530926",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/d4422d4bc5e8--pl-MadavillaRed-6IN-po-cer-white-e1c863.jpg?v=1635530770",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": {
+    "description": [
+      "Tuberous Begonias (Begonia Tuberosa) feature vivid flower petals ranging in white, yellow, apricot, pink, rose, and red. The colorful blossoms have a backdrop of serrated green leaves, although they get hidden often by the 6-inch proliferous blooms. This plant grows 12-18 inches tall in the garden's shady areas or bright, indirect light on a covered porch or indoor table.",
+      "*We will ship a yellow, peach, or red plant --- we will choose the happiest and healthiest available for you!",
+      "*Our blooms vary and may not arrive as they are pictured. We ship our plants still in buds, so you can enjoy a fresh bloom in your home.*"
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "Plays Hard to Get"
+      }
+    ],
+    "title": "Blooming Superba Double Begonia",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f24d7ed357f2--pl-BloomingSuperbaDoubleBegonia-6IN-po-grower-a4236c.jpg?v=1656470086",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f24d7ed357f2--pl-BloomingSuperbaDoubleBegonia-6IN-po-lr-coco-528ac8.jpg?v=1656470147",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f24d7ed357f2--pl-BloomingSuperbaDoubleBegonia-6IN-po-basket-15c12c.jpg?v=1656470093",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

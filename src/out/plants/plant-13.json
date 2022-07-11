@@ -1,0 +1,89 @@
+{
+  "data": {
+    "description": [
+      "Our black leaf Draecana collection includes four types of dragon plant in one handy pot — two Magenta, one Lemon Lime, one Florida Beauty and one Sanderiana. These tropical plants don't just look fantastic they pay their dues by purifying the air in your home. They're also super easy to care for, making this collection a lovely housewarming gift for inexperienced plant owners.",
+      "The species in this piece include:",
+      "Although tropical by nature, Dracaenas adapt beautifully to home conditions with little care."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "4\" to 7\" W 6\" to 12\" H"
+      }
+    ],
+    "title": "Black Leaf Dragon Tree Collection (Dracaena)",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/d4e8ea50ad5d--po-dracenablackleafcollection-4IN-po-grower-9e148f.jpg?v=1629492184",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/d4e8ea50ad5d--po-dracenablackleafcollection-4IN-po-lr-coco-9d98f9.jpg?v=1629492248",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/d4e8ea50ad5d--po-dracenablackleafcollection-4IN-po-lr-basket-20878c.jpg?v=1629492292",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/d4e8ea50ad5d--po-dracenablackleafcollection-4IN-po-cer-white-9f269d.jpg?v=1629492218",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/d4e8ea50ad5d--DracenaBlackLeafCollection-Grower-6IN-469034.jpg?v=1623846310",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/d4e8ea50ad5d--DracenaBlackLeafCollection-L-6IN-7c1335.jpg?v=1624049794",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/d4e8ea50ad5d--DracenaBlackLeafCollection-Basket-6IN-328912.jpg?v=1624049889",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/d4e8ea50ad5d--DracenaBlackLeafCollection-Black-6IN-f51f79.jpg?v=1623846359",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

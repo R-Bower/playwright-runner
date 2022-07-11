@@ -1,0 +1,81 @@
+{
+  "data": {
+    "description": [
+      "The Schefflera Arboricola (Dwarf Umbrella) indoor plant gets their common name because the leaves mimic an umbrella shape. They have smaller leaves in this species and remain under 2 feet in height if kept in a smaller pot. Place this indoor plant in bright, indirect light on an east, west, or south window to fulfill their lush characteristics. They like to dry out on the top third of topsoil between waterings. Their easy care makes this a great plant for the forgetful plant owner."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "4\" to 6\" W 8\" to 10\" H"
+      }
+    ],
+    "title": "Mini Schefflera Umbrella Tree",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b0482fe3eb42--LivelyRoot-Shoot2-4IN-Grower-f9d185.jpg?v=1611688359",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b0482fe3eb42--ScheffleraMini-LRBlack-4IN-Eco-Earl-Grey-Withlogo-389d8b.jpg?v=1611688487",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b0482fe3eb42--SheffleraMini-4IN-Basket-Natural-5a06aa.jpg?v=1611688600",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b0482fe3eb42--LivelyRoot-Shoot2-4IN-Ceramic-White-8fa236.jpg?v=1611688396",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b0482fe3eb42--pl-shefflera-mini-6IN-po-grower-dbbb65.jpg?v=1627750279",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b0482fe3eb42--pl-shefflera-mini-6IN-po-lr-gray-1ae39f.jpg?v=1627750501",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b0482fe3eb42--pl-shefflera-mini-6IN-po-cer-white-bb3e42.jpg?v=1627750330",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

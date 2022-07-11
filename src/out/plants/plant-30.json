@@ -1,0 +1,123 @@
+{
+  "data": {
+    "description": [
+      "The Weeping fig (Ficus Benjamina) show off their slender trunks and lush green leaves in a weeping downward fashion. This Moraceae genus has an abundance of glossy leaves that cascade down, making them a statement piece. Set them in any bright, indirect lit room, and they will reach upwards of 10' tall in height over a long period. Add humidity around them to thrive."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "8\" to 12\" W 18\" to 28\" H"
+      }
+    ],
+    "title": "Ficus Benjamina Midnight Braid",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5255f44f733f--pl-FicusBenjaminaMidnightBraid-4IN-po-grower-a5add8.jpg?v=1646074575",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5255f44f733f--pl-FicusBenjaminaMidnightBraid-4IN-po-lr-coco-758eb7.jpg?v=1646074768",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5255f44f733f--pl-FicusBenjaminaMidnightBraid-4IN-po-basket-6a8ec0.jpg?v=1646074873",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5255f44f733f--pl-FicusBenjaminaMidnightBraid-4IN-po-cer-white-631e66.jpg?v=1646074606",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5255f44f733f--MidnightBraid-Grower-6-087274.jpg?v=1619568874",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5255f44f733f--MidnightBraid-LRBlack-6-18533d.jpg?v=1619568929",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5255f44f733f--MidnightBraid-Basket-6-3692cf.jpg?v=1619568667",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5255f44f733f--MidnightBraid-White-6-8b33e2.jpg?v=1619568997",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5255f44f733f--Ficus-BenjaminaMidnightGrave-8IN-Grower-336eae.jpg?v=1611596561",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$86.00"
+          }
+        ],
+        "sizeId": "large",
+        "sizeLabel": "L"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5255f44f733f--BenjaminaBraided-Grower-10IN-89dbce.jpg?v=1624037841",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$110.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5255f44f733f--BenjaminaBraided-LRCoco-10IN-4667fd.jpg?v=1624037943",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$130.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5255f44f733f--BenjaminaBraided-Basket-10IN-eef0fa.jpg?v=1624037999",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$130.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

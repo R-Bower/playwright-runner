@@ -1,0 +1,85 @@
+{
+  "data": {
+    "description": [],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "4\" to 8\" W 5\" to 10\" H"
+      }
+    ],
+    "title": "Philodendron Birkin",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/69868fbefa93--pl-unknown-4IN-po-grower-8fbc71.jpg?v=1626820957",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/69868fbefa93--pl-unknown-4IN-po-lr-coco-beba39.jpg?v=1626821135",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/69868fbefa93--pl-unknown-4IN-po-grower-1-313109.jpg?v=1626821054",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/69868fbefa93--pl-unknown-4IN-po-cer-white-e652bd.jpg?v=1626820980",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/69868fbefa93--pl-PhilodendronBirkin-6IN-po-grower-5a869e.jpg?v=1637091856",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/69868fbefa93--pl-PhilodendronBirkin-6IN-po-lr-coco-53d59d.jpg?v=1637092096",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/69868fbefa93--pl-PhilodendronBirkin-6IN-po-basket-f87ca2.jpg?v=1637092182",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/69868fbefa93--pl-PhilodendronBirkin-6IN-po-cer-white-a2811d.jpg?v=1637091888",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

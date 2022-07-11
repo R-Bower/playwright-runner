@@ -1,0 +1,136 @@
+{
+  "data": {
+    "description": [
+      "Fiddle Leaf Figs, 'Ficus Lyrata', are gorgeous plants known for their large leaves and vibrant green colors.   With their big broad leaves, the fiddle leaf fig is definitely one of the most iconic house plants out there. They are also one of the most popular and has become one of the biggest home decor trends in all houseplant history.  They are a little \"high maintenance\" - preferring a more stable environment without much change.",
+      "This plant is known to have a blemish here or there. They are part of the plant's lifecycle and we love them anyway!"
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "Plays Hard to Get"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "4\" to 7\" W 8\" to 12\" H"
+      }
+    ],
+    "title": "Fiddle Leaf Fig",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2560ed704a20--Fiddle-Leaf-Fig-Small-Grower-7a5e74.jpeg?v=1616093421",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2560ed704a20--Fiddle-Leaf-Fig-Small-Eco-Earl-Gray-f3c995.jpeg?v=1616093443",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2560ed704a20--Fiddle-Leaf-Fig-Small-Basket-Light-74389c.jpeg?v=1616093541",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2560ed704a20--Fiddle-Leaf-Fig-Small-Ceramic-White-327cda.jpeg?v=1616093500",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2560ed704a20--pl-ficuslyrata-6IN-po-grower-6f90ea.jpg?v=1630700209",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2560ed704a20--pl-ficuslyrata-6IN-po-lr-gray-e3c139.jpg?v=1630700275",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2560ed704a20--pl-ficuslyrata-6IN-po-basket-67fbf4.jpg?v=1630700307",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2560ed704a20--pl-ficuslyrata-6IN-po-cer-white-3204f3.jpg?v=1630700224",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2560ed704a20--pl-ficuslyrata-8IN-po-grower-f26b22.jpg?v=1635098672",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$86.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2560ed704a20--pl-ficuslyrata-8IN-po-lr-gray-7c4f29.jpg?v=1635098761",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$102.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2560ed704a20--pl-ficuslyrata-8IN-po-basket-84e97c.jpg?v=1635098795",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$102.00"
+          }
+        ],
+        "sizeId": "large",
+        "sizeLabel": "L"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2560ed704a20--PL-FicusLyrata-10IN-po-grower-b891de.jpg?v=1633554125",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$118.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2560ed704a20--PL-FicusLyrata-10IN-po-lr-gray-6d1d49.jpg?v=1633554018",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$138.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2560ed704a20--PL-FicusLyrata-10IN-po-basket-c298b9.jpg?v=1633554108",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$138.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

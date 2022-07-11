@@ -1,0 +1,47 @@
+{
+  "data": {
+    "description": [
+      "Also known as the \"Cabbage Plant\" or the \"Good Luck Plant,\" this Cordyline Terminalis Hot Pepper will make any space feel more cheerful.",
+      "The color this indoor plant brings to any room is reminiscent of a tropical island with their hot pink leaves. Get the groove going in any place with bright light and high humidity."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      }
+    ],
+    "title": "Cordyline Florida Flamingo",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/4e3f0c75582a--pl-CordylineFlorida-10IN-po-grower-ada1c0.jpg?v=1628284628",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$118.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/4e3f0c75582a--pl-CordylineFlorida-10IN-po-lr-coco-4b6a58.jpg?v=1628284722",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$138.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/4e3f0c75582a--pl-CordylineFlorida-10IN-po-lr-basket-303ce1.jpg?v=1628284680",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$138.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "description": [
+      "Our 16-pack of assorted succulents will get your garden off to the perfect start. In this showcase, you'll find some of our favorite weird, wonderful, and easy-to-care-for plants. There's a variety of shapes and colors, from purple and rounded to variegated and spiky. Use them for craft projects, dot them around a rockery or repot and gift them to your friends and family!"
+    ],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "2\" to 2\" W 3\" to 6\" H"
+      }
+    ],
+    "title": "Cutie Little Baby Succulents: 16 Pack",
+    "variants": []
+  }
+}

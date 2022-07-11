@@ -1,0 +1,70 @@
+{
+  "data": {
+    "description": [
+      "These plants will bring beauty and prosperity to your home.  With this collection, you will get #alltheluck.",
+      "These special feng shui plants are known to cleanse the air and have a strong presence. The plants in the collection are some of our top sellers and include:"
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "5\" to 8\" W 6\" to 12\" H"
+      }
+    ],
+    "title": "The Feng Shui Money Makers",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/4d9d67769211--SnakeandMoney-Grower-4-771e73.jpg?v=1628019319",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$141.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/4d9d67769211--SnakesandMoney-Grower-6-d073be.jpg?v=1624920932",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$183.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/4d9d67769211--SnakesandMoney-LRCoco-6-67d899.jpg?v=1624921068",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$231.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/4d9d67769211--SnakesandMoney-Basket-6-eca976.jpg?v=1624920966",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$231.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/4d9d67769211--SnakesandMoney-White-6-43fce2.jpg?v=1624921133",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$239.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "data": {
+    "description": [],
+    "metadata": [
+      {
+        "id": "pet-hazard",
+        "label": "Pet Hazard",
+        "value": "Toxic To Touch"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      }
+    ],
+    "title": "Bloomify™ Rose Lantana",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/658686654382--pl-lantanabloomifyrose-4in-po-grower-a1e50c.jpg?v=1651869732",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      }
+    ]
+  }
+}

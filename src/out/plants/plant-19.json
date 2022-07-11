@@ -1,0 +1,52 @@
+{
+  "data": {
+    "description": [
+      "The Trachelospermum jasminoides or Star Jasmine gets these wonderfully scented, white, star-like flowers growing on an evergreen vine. In early to late spring, the flowers bloom with residual blooms throughout the summer. Observe their fast growth up to 6 feet in a single season! Use on a porch rail, trellis, arbor, or as a privacy screen. They make a lush ground cover too.",
+      "May ship with or without flowers or buds - normally blooms in May and June."
+    ],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "8\" to 10\" W 16\" to 24\" H"
+      }
+    ],
+    "title": "Star Jasmine",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2aa20d00e8ec--pl-starjasmine-1gal-po-grower-ade6d2.jpg?v=1657297069",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$54.00"
+          }
+        ],
+        "sizeId": "oneGallon",
+        "sizeLabel": "1G"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2aa20d00e8ec--Jasmine-Grower-10IN-80f2be.jpg?v=1624039084",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$98.00"
+          }
+        ],
+        "sizeId": "fiveGallon",
+        "sizeLabel": "5G"
+      }
+    ]
+  }
+}

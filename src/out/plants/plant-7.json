@@ -1,0 +1,111 @@
+{
+  "data": {
+    "description": [
+      "We know there are different types of Snake Plants, and it can be tough to know which one to pick. Variegated, or Laurentii, is the most common one you're going to find and is really, really durable when it comes to growing conditions. We're talking extra tough, leave them and forget them (then remember them) tough. They are an interesting and attractive plant that is also durable for a wide range of conditions. They are an easy plant to care for and make for a great addition to your personal green space. They are also known as a great air purifier. They're native to West Africa and often used in Feng Shui."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "4\" to 4\" W 10\" to 18\" H"
+      }
+    ],
+    "title": "Variegated Laurentii Snake Plant",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/636ad92b5102--Sansevieria-Laurentii-Small-Grower-d4dcbb.jpeg?v=1616432530",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/636ad92b5102--Sansevieria-Laurentii-Small-Basket-Light-2d7525.jpeg?v=1616432630",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Ceramic",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/636ad92b5102--Sansevieria-Laurentii-Small-Ceramic-White-3c6122.jpeg?v=1616432554",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Eco Pot",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/636ad92b5102--pl-VariegatedLaurentii-6IN-po-lr-coco-86dd1d.jpg?v=1637090650",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/636ad92b5102--pl-VariegatedLaurentii-6IN-po-basket-6fc5b4.jpg?v=1637090479",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Ceramic",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/636ad92b5102--pl-VariegatedLaurentii-6IN-po-cer-white-cb3794.jpg?v=1637090438",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Eco Pot",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/636ad92b5102--pl-UnknownSansevieriaLaurentii2-8IN-po-grower-5a12e3.jpg?v=1646242787",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$86.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/636ad92b5102--pl-UnknownSansevieriaLaurentii2-8IN-po-lr-coco-de7c77.jpg?v=1646242895",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Baskets",
+            "price": "$102.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/636ad92b5102--pl-UnknownSansevieriaLaurentii2-8IN-po-basket-60f94a.jpg?v=1646242944",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Ceramic",
+            "price": "$102.00"
+          }
+        ],
+        "sizeId": "large",
+        "sizeLabel": "L"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/636ad92b5102--Sanseveria-LRCoco-10-747af2.jpg?v=1622126033",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Baskets",
+            "price": "$138.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

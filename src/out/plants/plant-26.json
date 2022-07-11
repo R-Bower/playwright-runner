@@ -1,0 +1,106 @@
+{
+  "data": {
+    "description": [
+      "Add some color to your home with this medium croton petra. This gorgeous tropical plant thrives in brightly lit spots. The more sun they get, the more rainbow shades will appear in their variegated foliage. You can usually expect warm stripes of red, pink, and yellow contrasting with dark green. Bright and bold, they are surprisingly easy to care for.",
+      "This croton petra is packed with vibrant tropical colors. A rainbow marvel, they are at their best in bright rooms. Exposure to the sun helps their foliage to flourish in shades ranging from yellow to red and everything in between. In addition, they are easy to care for, making them a great tropical plant for beginners."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "10\" to 14\" W 14\" to 25\" H"
+      }
+    ],
+    "title": "Croton Petra",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f7e9cacb568e--pl-CrotonPetra-4IN-po-grower-c2302c.jpg?v=1630699205",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f7e9cacb568e--pl-CrotonPetra-4IN-po-lr-coco-04acf3.jpg?v=1630699442",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f7e9cacb568e--pl-CrotonPetra-4IN-po-basket-c73193.jpg?v=1630699253",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f7e9cacb568e--pl-CrotonPetra-4IN-po-cer-white-06f015.jpg?v=1630699320",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f7e9cacb568e--CrotonPetra-LRCoco-6-3f31b0.jpg?v=1623981575",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f7e9cacb568e--CrotonPetra-Basket-6-d9e032.jpg?v=1623981531",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f7e9cacb568e--CrotonPetra-White-6IN-97e73f.jpg?v=1624042602",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f7e9cacb568e--pl-CrotonPetra-10IN-po-grower-e1dfd3.jpg?v=1630699575",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$118.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f7e9cacb568e--pl-CrotonPetra-10IN-po-lr-coco-ae7917.jpg?v=1630699682",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$138.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f7e9cacb568e--pl-CrotonPetra-10IN-po-basket-bfdff4.jpg?v=1630699596",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$138.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

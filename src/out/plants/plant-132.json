@@ -1,0 +1,55 @@
+{
+  "data": {
+    "description": [],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "4\" to 12\" W 12\" to 14\" H"
+      }
+    ],
+    "title": "Pepper Yum Yum Mix",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/71c75014b97c--pl-PepperYumYumMix-4IN-Grower-827464.jpg?v=1647714322",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/71c75014b97c--pl-PepperYumYumMix-4IN-lr-coco-bc49e5.jpg?v=1647714479",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/71c75014b97c--pl-PepperYumYumMix-4IN-basket-401155.jpg?v=1647714529",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/71c75014b97c--pl-PepperYumYumMix-4IN-cer-white-3e15ba.jpg?v=1647714356",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      }
+    ]
+  }
+}

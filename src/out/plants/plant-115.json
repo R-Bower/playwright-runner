@@ -1,0 +1,19 @@
+{
+  "data": {
+    "description": [],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      }
+    ],
+    "title": "Tillandsia Houston Air Plant",
+    "variants": [
+      {
+        "imgSrc": "//cdn.shopify.com/s/files/1/0068/4215/5090/products/pl_houstoncollosus_Airplant_1024x.jpg?v=1635361269",
+        "price": "$12.00"
+      }
+    ]
+  }
+}

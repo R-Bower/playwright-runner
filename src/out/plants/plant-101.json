@@ -1,0 +1,29 @@
+{
+  "data": {
+    "description": [
+      "Calathea Cathedral windows (Goeppertia makoyana syn. Calathea makoyana) can be considered a work of art from the celestial being that created orchids. She is a masterpiece and even gained notoriety with the Royal Horticultural Society as a must-have plant. Her stained glass appearance with green swipes of evergreen brushed on either side of the midrib against the silvery-green leaves will mesmerize you. You'll gasp when her leaves fold up in the evening to reveal her deep purple undersides. It's like having two different plants in one! She reaches 18 in. tall and does best in high humidity areas."
+    ],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      }
+    ],
+    "title": "Calathea Cathedral Windows",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/4949f4c2e263--pl-CalatheaMakoyana-8IN-po-grower-3d7208.jpg?v=1651294207",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$54.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

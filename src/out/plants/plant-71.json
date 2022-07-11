@@ -1,0 +1,100 @@
+{
+  "data": {
+    "description": [
+      "Striking and easy to care for, Yucca Cane is an awesome choice for any first time (or uncertain) plant parent. Since they are native to arid regions, they prefer soil with excellent drainage and doesn't like to be overwatered. If you notice \"pups\" growing down at the base of your Yucca Cane, wait until they've matured a bit and then transplant to their own pot to create your Yucca Cane family."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      }
+    ],
+    "title": "Yucca Cane",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2b020a2330c8--pl-Unknown2-4IN-po-grower-78e136.jpg?v=1651706304",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2b020a2330c8--pl-Unknown2-4IN-po-lr-coco-fabeb9.jpg?v=1651706411",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2b020a2330c8--pl-Unknown2-4IN-po-cer-white-c8179e.jpg?v=1651706323",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2b020a2330c8--pl-YuccaCane-6IN-po-grower-1a4436.jpg?v=1646162424",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2b020a2330c8--pl-YuccaCane-6IN-po-lr-coco-ccfbce.jpg?v=1646162607",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2b020a2330c8--pl-YuccaCane-6IN-po-basket-093d7e.jpg?v=1646162670",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2b020a2330c8--pl-YuccaCane-6IN-po-cer-white-367663.jpg?v=1646162449",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2b020a2330c8--Yuccacane-10IN-Grower-6e39e8.jpg?v=1611855885",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$118.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2b020a2330c8--pl-yucca-10IN1-po-lr-06c5f2.jpg?v=1625681334",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$138.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2b020a2330c8--Yuccacane-10IN-Basket-Natural-6b39e4.jpg?v=1611855936",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$138.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

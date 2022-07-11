@@ -1,0 +1,44 @@
+{
+  "data": {
+    "description": [],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      }
+    ],
+    "title": "Ornamental Onion",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b8eb757dc811--pl-AliiumMillenium-6IN-po-grower-eda837.jpg?v=1655416382",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b8eb757dc811--pl-AliiumMillenium-6IN-po-lr-coco-125ea1.jpg?v=1655416400",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$60.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b8eb757dc811--pl-AliiumMillenium-6IN-po-basket-5c35f1.jpg?v=1655416450",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$60.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

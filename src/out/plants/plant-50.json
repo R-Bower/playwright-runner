@@ -1,0 +1,69 @@
+{
+  "data": {
+    "description": [
+      "The Robusta Snake Plant is a little shorter in stature than most Sansevieria, but what they lack in height, they make up for in color! Extremely easy to care for, this houseplant is the perfect gift for beginners! Their variegated leaves feature shades of green with just a hint of silver and gold. They may look precious but they are extremely adaptable and super easy to care for."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "4\" to 4\" W 10\" to 14\" H"
+      }
+    ],
+    "title": "Robusta Snake Plant",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f17376c210a4--zeylanicaSupurba-small-86f46eeb-9552-4431-9e65-aac71d35d09f-2-adc86e.jpg?v=1638288792",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f17376c210a4--SanseveriaRobusta-Grower-6IN-4e7529.jpg?v=1624125628",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f17376c210a4--SanseveriaRobusta-White-6IN-29cbfd.jpg?v=1624125675",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

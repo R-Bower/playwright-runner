@@ -1,0 +1,48 @@
+{
+  "data": {
+    "description": [
+      "Are you RED-y to add bright, bold color to your houseplant collection? Our Radiant Red Bundle will catch the eye of any guest with their vivid red blooms.",
+      "Collection Includes:"
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      }
+    ],
+    "title": "Radiant Red Bundle",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/1a00f9f7d403--grp-RedGroup-6IN-po-grower-cc6da6.jpg?v=1649452174",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$170.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/1a00f9f7d403--grp-RedGroup-6IN-po-lr-coco-8d0d4d.jpg?v=1649452316",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$218.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/1a00f9f7d403--grp-RedGroup-6IN-po-basket-5b4d81.jpg?v=1649451779",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$218.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/1a00f9f7d403--grp-RedGroup-6IN-po-cer-pink-0ad187.jpg?v=1649452000",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$226.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

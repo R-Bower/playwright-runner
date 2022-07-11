@@ -1,0 +1,27 @@
+{
+  "data": {
+    "description": [],
+    "metadata": [
+      {
+        "id": "pet-hazard",
+        "label": "Pet Hazard",
+        "value": "Toxic To Touch"
+      }
+    ],
+    "title": "Dahlia Karma Sangria Red",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/a861da60688c--pl-DahliaKarmaSangriaRed-1Gal-po-grower-a357ae.jpg?v=1656477856",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$42.00"
+          }
+        ],
+        "sizeId": "oneGallon",
+        "sizeLabel": "1G"
+      }
+    ]
+  }
+}

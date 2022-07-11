@@ -1,0 +1,135 @@
+{
+  "data": {
+    "description": [
+      "Try this virtually indestructible plant that thrives on low light and little water. The Dracaena 'Janet Craig' is perfect for people on the go with little time to waste! They even earn their keep by cleaning the air of nasty toxins! Their sword-like dark green 3 inches wide and eventually 2 feet long leaves fill out the mature stalk giving you that tropical vibe in your casa."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "4\" to 6\" W 6\" to 12\" H"
+      }
+    ],
+    "title": "Janet Craig Dragon Plant (Dracaena)",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/18dbb5fa0dc5--pl-JanetCraig-4IN-po-grower-71cc6b.jpg?v=1631819223",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/18dbb5fa0dc5--pl-JanetCraig-4IN-po-LR-Coco-a8813d.jpg?v=1631819397",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/18dbb5fa0dc5--pl-JanetCraig-4IN-po-basket-862195.jpg?v=1631819301",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/18dbb5fa0dc5--pl-JanetCraig-4IN-po-cer-white-7e037d.jpg?v=1631819481",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/18dbb5fa0dc5--pl-janet-craig-6IN-po-grower-a9d2fe.jpg?v=1627946510",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/18dbb5fa0dc5--pl-janet-craig-6IN-po-lr-coco-3a95b7.jpg?v=1627946602",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/18dbb5fa0dc5--pl-janet-craig-6IN-po-basket-ba00c7.jpg?v=1627946663",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/18dbb5fa0dc5--pl-janet-craig-6IN-po-cer-white-601cbf.jpg?v=1627946527",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/18dbb5fa0dc5--Dracena-JanetCraig-8-001-eaca35.jpg?v=1629831295",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$86.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/18dbb5fa0dc5--pl-JanetCraig-8IN-po-lr-coco-71c3f9.jpg?v=1628291293",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$102.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/18dbb5fa0dc5--pl-JanetCraig-8IN-po-basket-26f528.jpg?v=1628291318",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$102.00"
+          }
+        ],
+        "sizeId": "large",
+        "sizeLabel": "L"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/18dbb5fa0dc5--pl-dracenea-janet-craig-10IN1-po-grower-3debd8.jpg?v=1625679692",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$118.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/18dbb5fa0dc5--pl-dracenea-janet-craig-10IN1-po-lr-coco-010ac0.jpg?v=1625679633",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$138.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/18dbb5fa0dc5--pl-dracenea-janet-craig-10IN1-po-basket-ba04a9.jpg?v=1625679717",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$138.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "data": {
+    "description": [
+      "Commonly known as the Bird of Paradise, or Crane Flower, the Strelitzia reginae is a flowering plant that is native to the eastern coastlines of South Africa, where they grow wild in patches that can span for miles. An evergreen perennial, they are widely cultivated for their dramatic flowers."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      }
+    ],
+    "title": "Orange Flower Bird of Paradise",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/ab84e40af922--Strelitzia-Regina-cf07e5.jpg?v=1628796523",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$54.00"
+          }
+        ],
+        "sizeId": "oneGallon",
+        "sizeLabel": "1G"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/ab84e40af922--pl-GiantBirdofParadise-5Gal-po-Grower-05d187.jpg?v=1639612449",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$98.00"
+          }
+        ],
+        "sizeId": "fiveGallon",
+        "sizeLabel": "5G"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/ab84e40af922--pl-Unknown1-6IN-po-grower-44af73.jpg?v=1651709457",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/ab84e40af922--pl-Unknown1-6IN-po-lr-coco-5410f2.jpg?v=1651709523",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/ab84e40af922--pl-Unknown1-6IN-po-basket-bd44f9.jpg?v=1651709572",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/ab84e40af922--pl-bird-para-oran-10IN1-Grower-37ed07.jpg?v=1611765647",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$118.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/ab84e40af922--BirdofParadise-Orange-10IN-Basket-Natural-275292.jpg?v=1611765708",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$138.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

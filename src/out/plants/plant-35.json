@@ -1,0 +1,99 @@
+{
+  "data": {
+    "description": [
+      "Dracaena Marginata (aka the dragon tree) has to be one of our favorite ornamental houseplants. This tiny tree has thin, candelabra-shaped trunks that become more visible as they grow. Their spiky leaves are lined with red, making them even more striking. They are fairly forgiving, great for beginners, and can grow quite large. Use them to add some height to your indoor jungle, and trim them regularly to keep them shorter than six feet!"
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "4\" to 7\" W 8\" to 12\" H"
+      }
+    ],
+    "title": "Marginata Cane Dragon Tree (Dracaena)",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/93b0099e0c9b--DracaenaMarginata-Grower-4IN-b36e9b.jpg?v=1624214582",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/93b0099e0c9b--DracaenaMarginata-LRCoco-4IN-2787a3.jpg?v=1624214675",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/93b0099e0c9b--DracaenaMarginata-Basket-4IN-f51dc1.jpg?v=1624214910",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/93b0099e0c9b--pl-DracaenaMarginataGreen-6IN-po-grower-57144a.jpg?v=1628287218",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/93b0099e0c9b--pl-DracaenaMarginataGreen-6IN-po-lr-coco-57c439.jpg?v=1628287266",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/93b0099e0c9b--pl-DracaenaMarginataGreen-6IN-po-basket-a2367b.jpg?v=1628287397",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/93b0099e0c9b--pl-DracaenaMarginataGreen-6IN-po-cer-white-8e8aab.jpg?v=1628287145",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/93b0099e0c9b--93b0099e0c9b-DracaenaCane-LRCoco-10-c64ffc-ba914e.jpg?v=1624214512",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$138.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/93b0099e0c9b--93b0099e0c9b-DracaenaCane-Basket-10-5d99ce-076306.jpg?v=1624214467",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$138.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

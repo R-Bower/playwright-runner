@@ -1,0 +1,39 @@
+{
+  "data": {
+    "description": [],
+    "metadata": [
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      }
+    ],
+    "title": "Duet New Zealand Flax (Phormium)",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/1c4910f1bf9f--Phormium-duet2-fba763.jpg?v=1628793589",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "oneGallon",
+        "sizeLabel": "1G"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/1c4910f1bf9f--Phormium-duet-20080a.jpg?v=1628793604",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$98.00"
+          }
+        ],
+        "sizeId": "fiveGallon",
+        "sizeLabel": "5G"
+      }
+    ]
+  }
+}

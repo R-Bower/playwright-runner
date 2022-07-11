@@ -1,0 +1,76 @@
+{
+  "data": {
+    "description": [
+      "The Alocasia 'Regal Shields' thick and durable green leaves show off with dark purple-tinged undersides. The light green veins on the upper surface and purple-yellow-green veins on the lower surface gives an unusual color distinction to any room. Growing up to 9' tall and 4' wide makes them a focal point to any brightly lit room!"
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "Plays Hard to Get"
+      }
+    ],
+    "title": "Elephant Ear Alocasia Regal Shield",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/9b2c1825e427--pl-AlocasiaRegalShield-6IN-po-grower-3ed677.jpg?v=1637781941",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/9b2c1825e427--pl-AlocasiaRegalShield-6IN-po-lr-coco-7c2f27.jpg?v=1637782089",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/9b2c1825e427--pl-AlocasiaRegalShield-6IN-po-basket-ceb1a3.jpg?v=1637782130",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/9b2c1825e427--pl-AlocasiaRegalShield-6IN-po-cer-white-e3273e.jpg?v=1637781954",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/9b2c1825e427--pl-alocaciadarkstarelephanear-10IN-grower-6a420b.jpg?v=1631817676",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$118.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/9b2c1825e427--pl-alocaciadarkstarelephanear-10IN-lr-coco-169237.jpg?v=1631817793",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$138.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/9b2c1825e427--pl-alocaciadarkstarelephanear-10IN-basket-5e03d5.jpg?v=1631817700",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$138.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

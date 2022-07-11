@@ -1,0 +1,76 @@
+{
+  "data": {
+    "description": [
+      "We can't promise that the Chinese money plant (Pilea Peperomioides) will bring you good fortune, but we can say they'll add instant style to any room. As well as being one of the most popular plant choices for Feng Shui, they are also famous with fans of Scandi design — They are Norway's favorite sill plant. Chinese money plants are also easy to care for and fun to grow. What's not to love?"
+    ],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      }
+    ],
+    "title": "Chinese Money Plant (Pilea Peperomioides)",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/710e555863a7--ChineseMoneyTree-Grower-4-ccfb0d.jpg?v=1622040681",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/710e555863a7--ChineseMoneyTree-LRCoco-4-20a6bd.jpg?v=1622043048",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/710e555863a7--ChineseMoneyTree-White-4-75a7ae.jpg?v=1622040736",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/710e555863a7--ChineseMoney-6-Blk-1-3b90cc.jpg?v=1613149913",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/710e555863a7--pl-chinese-money-plant-6IN-po-lr-coco-d8f298.jpg?v=1627669068",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/710e555863a7--ChineseMoney-6-Bsk-2-9b91a0.jpg?v=1613149838",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/710e555863a7--ChineseMoney-6-Wht-1-eb8aac.jpg?v=1613149899",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

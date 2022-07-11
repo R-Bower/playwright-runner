@@ -1,0 +1,129 @@
+{
+  "data": {
+    "description": [
+      "Brighten up any space with the lemon-lime dragon tree. They are an indoor plant that thrives in medium light levels, with colorful and spiky leaves that bring drama to any space. With stripes of dark and vivid green, as well as bright yellow, it is easy to see where they get their citrus-inspired name. Adaptable, easy to care for, and air purifying, they are the ideal addition to your desk at work. The Lemon Lime Dragon Tree (aka Dracaena warneckii Lemon Lime) is also easy to care for which makes them perfect for beginners! Their beautiful green leaves with yellow stripes will add some zing to any room or patio as well."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "6\" to 8\" W 8\" to 12\" H"
+      }
+    ],
+    "title": "Lemon Lime Dragon Tree (Dracaena)",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5638b5dda310--DracaenaWarneckiiLemonLime-LRCoco-4IN-6f15ec.jpg?v=1624045585",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5638b5dda310--DracenaWarneckii-LemonLime-4-004-a5191f.jpg?v=1629831460",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5638b5dda310--DracenaWarneckii-LemonLime-4-003-e223a6.jpg?v=1629831434",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5638b5dda310--DacaenaWarnekiiLemonLime-Grower-6IN-754966.jpg?v=1624045676",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5638b5dda310--DacaenaWarnekiiLemonLime-LRCoco-6IN-4b26ef.jpg?v=1624045902",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5638b5dda310--DacaenaWarnekiiLemonLime-Basket-6IN-e1c622.jpg?v=1624045962",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5638b5dda310--DacaenaWarnekiiLemonLime-White-6IN-1e6189.jpg?v=1624045709",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5638b5dda310--pl-DracaenaWarneckiiLemonLime-8IN-po-grower-4d7f9f.jpg?v=1628290948",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$86.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5638b5dda310--pl-DracaenaWarneckiiLemonLime-8IN-po-lr-coco-9f70fb.jpg?v=1628291011",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$102.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5638b5dda310--pl-DracaenaWarneckiiLemonLime-8IN-po-basket-95e980.jpg?v=1628291047",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$102.00"
+          }
+        ],
+        "sizeId": "large",
+        "sizeLabel": "L"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5638b5dda310--pl-DracaenaWarneckiiCane-10IN-pl-grower-3ed49e.jpg?v=1645901080",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$118.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5638b5dda310--pl-DracaenaWarneckiiCane-10IN-pl-lr-coco-7dab5a.jpg?v=1645901164",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$138.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5638b5dda310--pl-DracaenaWarneckiiCane-10IN-pl-basket-1116ec.jpg?v=1645901219",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$138.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

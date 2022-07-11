@@ -1,0 +1,50 @@
+{
+  "data": {
+    "description": [],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "Plays Hard to Get"
+      }
+    ],
+    "title": "Maranta Red Prayer Plant",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/659772b8a764--MarantaRed-Grower-6-a59ac4.jpeg?v=1620071452",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/659772b8a764--MarantaRed-LRBlack-EcoGrey6-9df104.jpeg?v=1620071579",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/659772b8a764--MarantaRed-Basket-6-d36848.jpeg?v=1620071549",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/659772b8a764--MarantaRed-White-Ceramic-6-48df07.jpeg?v=1620071484",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

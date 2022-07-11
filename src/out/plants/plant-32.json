@@ -1,0 +1,106 @@
+{
+  "data": {
+    "description": [
+      "The Burgundy Rubber Tree is easy for beginners and a great starter plant! They can quickly grow up to 8' inside and do best in bright to moderate indirect light.",
+      "In general these plants leave our nursery when they are 16\" to 28\" tall (depending on the size).  They are living plants and actual size may vary depending on the current crop."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "6\" to 10\" W 10\" to 16\" H"
+      }
+    ],
+    "title": "Burgundy Rubber Tree",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b01fa004e665--pl-ficus-burgundy-4IN-po-grower-8f5b8d.jpg?v=1628282250",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b01fa004e665--pl-ficus-burgundy-4IN-po-lr-coco-285735.jpg?v=1628282211",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b01fa004e665--pl-ficus-burgundy-4IN-po-basket-630091.jpg?v=1628282351",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b01fa004e665--pl-ficus-burgundy-4IN-po-cer-white-39c970.jpg?v=1628282278",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b01fa004e665--Rubberplant-LRCoco-6IN-1af22d.jpg?v=1623850626",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b01fa004e665--Rubberplant-Basket-6IN-cc674f.jpg?v=1623850684",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b01fa004e665--Rubberplant-White-6IN-7d085c.jpg?v=1624123377",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b01fa004e665--PL-FicusBurgundyRubberTree-10IN-grower-1a58c2.jpg?v=1633125334",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$118.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b01fa004e665--PL-FicusBurgundyRubberTree-10IN-po-lr-coco-f4f7a0.jpg?v=1633125943",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$138.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b01fa004e665--PL-FicusBurgundyRubberTree-10IN-po-basket-b9a91a.jpg?v=1633125369",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$138.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

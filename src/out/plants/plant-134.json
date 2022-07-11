@@ -1,0 +1,55 @@
+{
+  "data": {
+    "description": [],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "4\" to 26\" W 22\" to 24\" H"
+      }
+    ],
+    "title": "Scallion Tokyo Long",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5b99c8c563ba--pl-ScallionTokyoLong-4IN-grower-9fe88c.jpg?v=1647715669",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5b99c8c563ba--pl-ScallionTokyoLong-4IN-lr-coco-1c0fa0.jpg?v=1647715790",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5b99c8c563ba--pl-ScallionTokyoLong-4IN-basket-f15a66.jpg?v=1647715840",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5b99c8c563ba--pl-ScallionTokyoLong-4IN-cer-white-ba03fb.jpg?v=1647715722",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      }
+    ]
+  }
+}

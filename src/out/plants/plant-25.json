@@ -1,0 +1,87 @@
+{
+  "data": {
+    "description": [
+      "Bushy and beautiful, the Boston fern will add some woodland charm to your home. A natural air purifier, they are super efficient at removing chemicals like formaldehyde from the air. They love indirect light and lots of humidity — making them a natural choice for your bathroom. Please place them in a hanging basket and let their delicate fronds drape over the sides."
+    ],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "6\" to 8\" W 10\" to 14\" H"
+      }
+    ],
+    "title": "Boston Fern",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/8cd958ed4501--Fern-4-Blk-1-fbdb9a.jpg?v=1630784704",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/8cd958ed4501--Fern-4-LRBlk-3-32c9aa.jpg?v=1630784770",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/8cd958ed4501--Fern-4-Bsk-1-3d9a4b.jpg?v=1630784808",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/8cd958ed4501--Fern-4-Wht-1-7bd34a.jpg?v=1630784753",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/8cd958ed4501--pl-BostonFern-6IN-po-grower1-0aa22e.jpg?v=1646071245",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/8cd958ed4501--pl-BostonFern-6IN-po-lr-gray-2ee2ec.jpg?v=1646071464",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/8cd958ed4501--pl-BostonFern-6IN-po-basket-a2a833.jpg?v=1646071614",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/8cd958ed4501--pl-BostonFern-6IN-po-cer-white-e54b59.jpg?v=1646071307",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

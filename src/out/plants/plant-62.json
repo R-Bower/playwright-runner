@@ -1,0 +1,81 @@
+{
+  "data": {
+    "description": [
+      "When it comes to statement floor plants, it's hard to beat dieffenbachia tropic snow. Their huge leaves are striking with variegated splotches of buttery yellow and lime green. They can grow up to six feet tall, so they are perfect for adding a bit of height to your space. They are also low maintenance and a natural air purifier—basically a great all-rounder."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "6\" to 8\" W 8\" to 14\" H"
+      }
+    ],
+    "title": "Dieffenbachia Tropic Snow",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/cd36e1a8e6e7--DiffenbachiaTropicSnow-Grower-6-1-4eef0e.jpg?v=1638294214",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/cd36e1a8e6e7--DiffenbachiaTropicSnow-Grower-6-1-4eef0e.jpg?v=1638294214",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/cd36e1a8e6e7--DiffenbachiaTropicSnow-LRWhite-6-1-e3b4c1.jpg?v=1638294284",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/cd36e1a8e6e7--DiffenbachiaTropicSnow-Grower-6-1-4eef0e.jpg?v=1638294214",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$86.00"
+          }
+        ],
+        "sizeId": "large",
+        "sizeLabel": "L"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "description": [],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "6\" to 24\" W 14\" to 16\" H"
+      }
+    ],
+    "title": "Lipstick Plant",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/72349edc04ae--pl-LipstickPlant-6IN-po-grower2-e26919.jpg?v=1643910135",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/72349edc04ae--pl-LipstickPlant-6IN-po-lr-coco-33b13f.jpg?v=1643910334",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/72349edc04ae--pl-LipstickPlant-6IN-po-basket-e1aca0.jpg?v=1643910778",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/72349edc04ae--pl-LipstickPlant-6IN-po-cer-white-512d75.jpg?v=1643910166",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "data": {
+    "description": [
+      "Who doesn't love a succulent that has this much unusual beauty flowing from all directions, right? A little bright indirect light and water and a lot of plant love will give you lots of years of enjoyment. Add this one-of-a-kind succulent to your 'must-have' list!"
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "6\" to 8\" W 8\" to 12\" H"
+      }
+    ],
+    "title": "String of Pearls",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/a8eaff8be763--StringofPearls-6IN-Grower-51cfb5.jpg?v=1611777258",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/a8eaff8be763--pl-string-of-pearls-6IN1-po-lr-coco-626cdb.jpg?v=1625076893",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/a8eaff8be763--StringofPearls-6IN-Basket-Natural-b635ab.jpg?v=1611777314",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/a8eaff8be763--pl-string-of-pearls-6IN1-po-cer-white-9121d2.jpg?v=1625076751",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

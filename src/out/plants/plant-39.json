@@ -1,0 +1,111 @@
+{
+  "data": {
+    "description": [
+      "One of the fastest-growing houseplants, Umbrella Plants, can be kept short and bushy or grow all the way up. Add some height to your indoor jungle with our unique umbrella tree. They are one of our favorite beginner plants. Not only are they low maintenance, but they also grow quickly. They can grow to ceiling-skimming heights of six feet and over, but if you prefer shorter shrubs, you can trim them into a shorter, bushier shape. Since they're easy to take care of, they're great for first-time plant parents."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "6\" to 8\" W 12\" to 14\" H"
+      }
+    ],
+    "title": "Schefflera Gold Capella Umbrella Tree",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/86d258cc5ae7--pl-ScheffleraGoldCapella-4IN-po-grower-55a4c5.jpg?v=1656481076",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/86d258cc5ae7--pl-ScheffleraGoldCapella-4IN-po-lr-coco-e86f04.jpg?v=1656481142",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/86d258cc5ae7--pl-ScheffleraGoldCapella-4IN-po-basket-4b4305.jpg?v=1656481107",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/86d258cc5ae7--po-SchefflerraGoldCapella-4IN-po-cer-white-c78ef8.jpg?v=1629493083",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/86d258cc5ae7--pl-ScheffleraGoldCapella-6IN-po-grower-ae772e.jpg?v=1656481085",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/86d258cc5ae7--pl-ScheffleraGoldCapella-6IN-po-lr-coco-632bb8.jpg?v=1656481171",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/86d258cc5ae7--pl-ScheffleraGoldCapella-6IN-po-basket-889ac8.jpg?v=1656481102",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/86d258cc5ae7--po-scheffleraGoldCapella-6IN-po-cer-white-521958.jpg?v=1629493103",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/86d258cc5ae7--po-ScheffleraGoldCapella-10IN-po-grower-1a0872.jpg?v=1629493193",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$118.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/86d258cc5ae7--po-ScheffleraGoldCapella-10IN-po-lr-coco-418d43.jpg?v=1629493411",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$138.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/86d258cc5ae7--po-ScheffleraGoldCapella-10IN-po-basket-8cc01e.jpg?v=1629493505",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$138.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "data": {
+    "description": [
+      "The Neanthe Bella Palm is perfect to liven up any desk or workspace. They are extremely resilient and thrive in low light. The perfect addition for any countertop!"
+    ],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "4\" to 5\" W 8\" to 12\" H"
+      }
+    ],
+    "title": "Neanthe Bella Parlor Palm",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/aa0abc678d70--NeantheBellaPalm-Grower-4-34596d.jpg?v=1622120547",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/aa0abc678d70--NeantheBellaPalm-LRCoco-4-f66e87.jpg?v=1622122301",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/aa0abc678d70--NeantheBellaPalm-Basket-4-bbac95.jpg?v=1622122242",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/aa0abc678d70--NeantheBellaPalm-White-4-02a8d0.jpg?v=1622122207",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/aa0abc678d70--BellaPalm-Grower-6IN-afad48.jpg?v=1623840363",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/aa0abc678d70--BellaPalm-LRGray-6IN-466d9e.jpg?v=1623840649",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/aa0abc678d70--BellaPalm-Basket-6IN-704920.jpg?v=1623840867",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/aa0abc678d70--BellaPalm-White-6IN-a11485.jpg?v=1623840401",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

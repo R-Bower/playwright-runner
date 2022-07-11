@@ -1,0 +1,19 @@
+{
+  "data": {
+    "description": [],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      }
+    ],
+    "title": "T. Juncea Air Plant",
+    "variants": [
+      {
+        "imgSrc": "//cdn.shopify.com/s/files/1/0068/4215/5090/products/TJunceaAirPlant_Detail-3_1024x.jpg?v=1651694989",
+        "price": "$12.00"
+      }
+    ]
+  }
+}

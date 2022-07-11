@@ -1,0 +1,93 @@
+{
+  "data": {
+    "description": [
+      "Commonly known as the Giant White Bird of Paradise, the Strelitzia Nicolai is a flowering plant that is native to South Africa. They are similar to the Orange Bird of Paradise but can grow to be much, much taller."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "10\" to 16\" W 28\" to 38\" H"
+      }
+    ],
+    "title": "Giant Bird of Paradise - 40% Off this Week Only!",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/143324fa29fb--pl-GiantBirdOfParadise1Gal-po-grower-25ffac.jpg?v=1655395635",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$32.00"
+          }
+        ],
+        "sizeId": "oneGallon",
+        "sizeLabel": "1G"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/143324fa29fb--pl-giantbirdofparadise-5gal-po-grower-3b5d11.jpg?v=1657295154",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$58.00"
+          }
+        ],
+        "sizeId": "fiveGallon",
+        "sizeLabel": "5G"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/143324fa29fb--pl-giantbirdofparadise-6in-po-grower-a95692.jpg?v=1657295164",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$30.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/143324fa29fb--pl-giantbirdofparadise-6in-po-lr-coco-83d6d2.jpg?v=1657295192",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$42.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/143324fa29fb--pl-giantbirdofparadise-6in-po-basket-eb7d2b.jpg?v=1657295206",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$42.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/143324fa29fb--pl-unknown1-6IN-po-cer-white-5fc141.jpg?v=1638382424",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$44.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/143324fa29fb--BirdofParadise-Grower-10-8cab8c.jpg?v=1633032571",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$70.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

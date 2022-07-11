@@ -1,0 +1,40 @@
+{
+  "data": {
+    "description": [
+      "\"Heloise and Abelard\" is one of history's most passionate and romantic true love stories. The famous love affair of the 12th-century philosopher and theologian and his student Heloise inspires and moves writers and artists to this day. These forbidden lovers are represented by the Snake Plant & Date Palm, two plants that are fated to be together forever.",
+      "Both the Date Palm and the Bountiful Variegated Laurentii Snake Plant are strong and durable plants. Just like Heloise and Abelard's love, they will survive. These easy-care plants will make for a great addition to your personal green space."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "10\" to 14\" W 14\" to 28\" H"
+      }
+    ],
+    "title": "Heloise and Abelard Bundle: Snake Plant & Pygmy Date Palm",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/40053ff68cda--LivelyRoot-10IN-Grower-6a501c.jpg?v=1611601685",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$200.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

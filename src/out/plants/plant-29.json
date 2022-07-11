@@ -1,0 +1,87 @@
+{
+  "data": {
+    "description": [
+      "With such bright and delicate fronds, the Maidenhair Fern is absolutely worth the extra effort! This diva prefers moist soil, low light and humid conditions but the extra TLC will pay off quick!"
+    ],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "4\" to 6\" W 6\" to 8\" H"
+      }
+    ],
+    "title": "Maidenhair Fern",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/eba4dfde9053--pl-MaidenhairFern-4IN-po-grower-035f21.jpg?v=1637169885",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/eba4dfde9053--pl-MaidenhairFern-4IN-po-lr-coco-b5f6e2.jpg?v=1637170044",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/eba4dfde9053--pl-MaidenhairFern-4IN-po-basket-63f060.jpg?v=1637169954",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/eba4dfde9053--pl-MaidenhairFern-4IN-po-cer-white-702f31.jpg?v=1637169912",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/eba4dfde9053--pl-MaidenhairFern-6IN-po-grower-488d49.jpg?v=1628291693",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/eba4dfde9053--pl-MaidenhairFern-6IN-po-lr-coco-545d67.jpg?v=1628291912",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/eba4dfde9053--pl-MaidenhairFern-6IN-po-basket-b95bc7.jpg?v=1628291852",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/eba4dfde9053--pl-MaidenhairFern-6IN-po-cer-white-da93c2.jpg?v=1628291712",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "data": {
+    "description": [
+      "When it comes to showmanship, you can't go wrong with peacock plants. Watermelon colors of dark red on the bottom and variegated green and yellow on the top make their foliage stand out. Officially called Calathea Medallion Roseopicta, these Brazilian beauties have earned the nickname 'prayer plants'. This is because they raise and lower their leaves throughout the day as if they're worshipping. A medium-care plant, they thrive in humid environments."
+    ],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "Plays Hard to Get"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "6\" to 8\" W 8\" to 14\" H"
+      }
+    ],
+    "title": "Peacock Plant (Calathea)",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2e1dd754d2f7--PeacockPlant-Grower-4-5aa432.jpg?v=1622047439",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2e1dd754d2f7--PeacockPlant-LRCoco-4-9ab22d.jpg?v=1622047783",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2e1dd754d2f7--PeacockPlant-Basket-4-71514b.jpg?v=1631817492",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2e1dd754d2f7--PeacockPlant-White-4-dec757.jpg?v=1622047614",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2e1dd754d2f7--pl-peacock-6IN-po-grower-0091a3.jpg?v=1627947118",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2e1dd754d2f7--Peacock-LRCoco-6IN-bd7d38.jpg?v=1623850145",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2e1dd754d2f7--Peacock-Basket-6IN-25cbe4.jpg?v=1623850218",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2e1dd754d2f7--Peacock-White-6IN-e46030.jpg?v=1623849967",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

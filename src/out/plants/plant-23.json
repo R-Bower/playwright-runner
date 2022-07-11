@@ -1,0 +1,100 @@
+{
+  "data": {
+    "description": [
+      "If you're looking for hanging plants for delivery, try our English ivy. Tough but pretty, they stay green all year round and is quite happy in shady spots. They are a natural climber and will crawl and trail for up to ten feet. They are easy to care for, too, so with minimal effort, you can get those country manor vibes.",
+      "Vigorous and fast-growing English Ivy (also known as Hedera helix) is a climbing vine from the family Araliaceae. With medium water and indirect light, English Ivy is deficient maintenance, with an evergreen leaf and an insignificant (if ever) flower. Resilient as ever, they can grow in several conditions and nearly any soil, but they do prefer a rich loam with sufficient drainage."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "6\" to 8\" W 8\" to 10\" H"
+      }
+    ],
+    "title": "English Ivy Green Ideal",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f0c01d832150--pl-hedera-4IN1-po-lr-coco-668890.jpg?v=1625765190",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f0c01d832150--English-Ivy-Green-Small-Basket-Light-82f70b.jpeg?v=1616363656",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f0c01d832150--English-Ivy-Green-Small-Ceramic-White-d58257.jpg?v=1616364398",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f0c01d832150--pl-EnglishIvyGreenIdeal-6IN-po-grower2-5db8ae.jpg?v=1656478348",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f0c01d832150--pl-EnglishIvyGreenIdeal-6IN-po-lr-coco-6357b8.jpg?v=1656478427",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f0c01d832150--pl-EnglishIvyGreenIdeal-6IN-po-basket-50530c.jpg?v=1656478364",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f0c01d832150--pl-hedera-greenideal-8IN-po-grower-1-4bdad0.jpg?v=1627946112",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$86.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f0c01d832150--pl-hedera-greenideal-8IN-po-lr-coco-e26d83.jpg?v=1627946204",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$102.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f0c01d832150--pl-hedera-greenideal-8IN-po-basket-466209.jpg?v=1627946178",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$102.00"
+          }
+        ],
+        "sizeId": "large",
+        "sizeLabel": "L"
+      }
+    ]
+  }
+}

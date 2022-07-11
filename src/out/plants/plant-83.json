@@ -1,0 +1,40 @@
+{
+  "data": {
+    "description": [
+      "Bring some color and texture to your space with this beautiful houseplant bundle for delivery.",
+      "It includes two peacock plants (Calathea Medallion) and two spider plants (Chlorophytum Comosum). The peacocks have large round leaves with variegated colors on top and striking red underneath, while the spiders add to the tropical vibes with their jagged foliage. Split them up to spread the joy, or keep them together for the ultimate contrast."
+    ],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "6\" to 8\" W 12\" to 16\" H"
+      }
+    ],
+    "title": "Strut Your Stuff Plant Collection",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/0ddf92d10fba--pl-bund-spid-cala-6IN4-Grower-4d59e5.jpg?v=1611776186",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$170.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

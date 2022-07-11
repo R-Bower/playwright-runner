@@ -1,0 +1,103 @@
+{
+  "data": {
+    "description": [],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "6\" to 10\" W 6\" to 15\" H"
+      }
+    ],
+    "title": "Ficus Audrey",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5c894bda1d8e--pl-ficusaudrey-4in-po-grower-71baeb.jpg?v=1657294346",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5c894bda1d8e--pl-ficusaudrey-4in-po-lr-coco-1a0a38.jpg?v=1657294376",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5c894bda1d8e--pl-ficusaudrey-4in-po-basket-9c8b48.jpg?v=1657294356",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5c894bda1d8e--pl-FicusAltissimaGreenAudrey-6IN-po-grower-3f3907.jpg?v=1634146431",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5c894bda1d8e--pl-FicusAltissimaGreenAudrey-6IN-po-lr-coco-b9a555.jpg?v=1634232517",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5c894bda1d8e--pl-FicusAltissimaGreenAudrey-6IN-po-basket-24da8d.jpg?v=1634232474",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5c894bda1d8e--pl-FicusAltissimaGreenAudrey-6IN-po-cer-white-361b5e.jpg?v=1634232369",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5c894bda1d8e--pl-FicusAudrey-8IN-pl-grower-a82239.jpg?v=1645901474",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$86.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5c894bda1d8e--pl-FicusAudrey-8IN-pl-lr-coco-610e4c.jpg?v=1645901624",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$102.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5c894bda1d8e--pl-FicusAudrey-8IN-pl-basket-6c326b.jpg?v=1645901667",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$102.00"
+          }
+        ],
+        "sizeId": "large",
+        "sizeLabel": "L"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "data": {
+    "description": [
+      "This is the perfect plant for your Halloween or Harvest!  A cute pumpkin planter with a live Air Plant stem.",
+      "Air Plants (Tillandsia spp.) are evergreen, perennial flowering epiphytes native to forests, mountains, and deserts. The specialized cells in their leaves absorb water and nutrients in the air. Because they don't grow in soil, they have a minimal root system but attach themselves to branches of other plants. There are over 650 species, so they're small enough to collect and enjoy in all their colors, shapes, and sizes!"
+    ],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      }
+    ],
+    "title": "Chartreuse Pumpkin Air Plant",
+    "variants": [
+      {
+        "imgSrc": "//cdn.shopify.com/s/files/1/0068/4215/5090/products/pl_greenpumpkinairplant_po_cer_1_1024x.jpg?v=1634671899",
+        "price": "$22.00"
+      }
+    ]
+  }
+}

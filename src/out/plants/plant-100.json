@@ -1,0 +1,50 @@
+{
+  "data": {
+    "description": [],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "4\" to 9\" W 12\" to 14\" H"
+      }
+    ],
+    "title": "Calathea Orbifolia",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/ba5191f4db9d--pl-MarantaLemonLime-4IN-po-grower-b2622b.jpg?v=1643913343",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/ba5191f4db9d--pl-MarantaLemonLime-4IN-po-lr-coco-a64381.jpg?v=1643913593",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/ba5191f4db9d--pl-MarantaLemonLime-4IN-po-basket-b2f820.jpg?v=1643913696",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/ba5191f4db9d--pl-MarantaLemonLime-4IN-po-cer-white-0a1387.jpg?v=1643913392",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

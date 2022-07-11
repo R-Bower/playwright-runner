@@ -1,0 +1,53 @@
+{
+  "data": {
+    "description": [
+      "If you're looking for some big beautiful floor plants, you have come to the right place.  These are the two most popular large houseplants and for good reason. They make any space more welcoming.",
+      "Whether you’re going for a formal appearance, jungle-ly vibe, or a calm and quiet presence, these large indoor plants will make your space more charming, welcoming, and cozy.",
+      "This Plant Collection Includes:"
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "10\" to 16\" W 10\" to 24\" H"
+      }
+    ],
+    "title": "Favorite Floor Plants",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b4a87d720b48--FavoriteFloorPlants-Grower-10-c1aea9.jpg?v=1625782703",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$187.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b4a87d720b48--FavoriteFloorPlants-LRCoco-10-36de91.jpg?v=1625782741",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$227.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b4a87d720b48--FavoriteFloorPlants-Basket-10-c2a411.jpg?v=1625782781",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$227.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

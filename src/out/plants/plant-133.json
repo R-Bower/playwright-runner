@@ -1,0 +1,57 @@
+{
+  "data": {
+    "description": [
+      "Spear Sansevieria (Dracaena angolensis) has a unique leaf shape that is upright, dense, and cylindrical-shaped leaves that come to a point on the ends. The leaves grow in a vertical line radiating from the basal rosette causing their form to look like a shooting star. This succulent withstands drought well. An easy-care-for plant to have and exotic conversational piece."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "6\" to 6\" W 6\" to 15\" H"
+      }
+    ],
+    "title": "Sansevieria Cylindrica",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/76596891a2fa--PL-SansevariaCylindrica-6IN-po-grower-8f1f8d.jpg?v=1633555264",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/76596891a2fa--PL-SansevariaCylindrica-6IN-po-lr-coco-5e45fb.jpg?v=1633555365",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/76596891a2fa--PL-SansevariaCylindrica-6IN-po-basket-410027.jpg?v=1633555349",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/76596891a2fa--PL-SansevariaCylindrica-6IN-po-cer-white-c48394.jpg?v=1633555279",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

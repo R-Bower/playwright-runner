@@ -1,0 +1,63 @@
+{
+  "data": {
+    "description": [
+      "Can't decide which snake plant to buy? With this collection, you can have them all, two Sansevieria Laurentiis and two Sansevieria Superba. All are medium height (six inches), making them the perfect centerpiece for a tabletop. With their iconic sword-shaped leaves and colorful variegated foliage, they look striking whether you group them or spread them throughout your home."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "6\" to 6\" W 12\" to 16\" H"
+      }
+    ],
+    "title": "Snake Plant Collection",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2b719c2f89c0--Snakes-Grower-4-e96ce8.jpg?v=1621988816",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$129.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2b719c2f89c0--Snakes-LRCoco-4-75a84e.jpg?v=1621989256",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$169.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2b719c2f89c0--pl-bund-snake-plants-6IN4-Grower-717564.jpg?v=1611775285",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$170.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2b719c2f89c0--pl-coll-snake-plant-6IN4-Ceramic-White-561c3c.jpg?v=1611775316",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$226.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

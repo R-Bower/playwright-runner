@@ -1,0 +1,53 @@
+{
+  "data": {
+    "description": [
+      "This Manifestation Plant Collection is a group of some pretty inspiring plants.  From the peacock plant that reminds us to be mindful to the money tree that brings good fortune and the begonias that brighten our space - all these plants bring a thoughtful and inspired vibe to any space.",
+      "Open your heart to these plants and only good things will come your way.",
+      "Collection Includes:"
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "Plays Hard to Get"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "6\" to 10\" W 10\" to 18\" H"
+      }
+    ],
+    "title": "Manifestation Plant Collection",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5fba03e85f73--Manifestation-Grower-6-42bc21.jpg?v=1625179905",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$170.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5fba03e85f73--Manifestation-LRCoco-6-1f50b2.jpg?v=1625179943",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$218.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5fba03e85f73--Manifestation-White-6-84a60d.jpg?v=1625180062",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$226.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

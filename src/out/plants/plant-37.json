@@ -1,0 +1,51 @@
+{
+  "data": {
+    "description": [
+      "New plant parents can get a confident start with this bundle of three hard-to-kill green babies. Golden pothos is sometimes called devil's ivy because they are so hard to kill. They have gorgeous trailing leaves and look great in a hanging planter. The ZZ plant can also handle low levels of water and light. Finally, the money tree is an easy-care plant that's rumored to bring good luck and fortune."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "4\" to 6\" W 8\" to 16\" H"
+      }
+    ],
+    "title": "New Plant Parents Bundle",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/9428fc1455da--NewPlantParents-Grower-4-0bb017.jpg?v=1621982482",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$129.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/9428fc1455da--NewPlantParents-LRCoco-4-dd6960.jpg?v=1621982514",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$169.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/9428fc1455da--pl-coll-start-4IN4-Ceramic-White-a0fa17.jpg?v=1611765442",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$177.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      }
+    ]
+  }
+}

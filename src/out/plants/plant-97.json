@@ -1,0 +1,81 @@
+{
+  "data": {
+    "description": [
+      "The Dracaena Bicolor Cane has a unique silhouette and is perfect for filling in spaces in your garden or Green Space! A perfect houseplant for any room!"
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "8\" to 12\" W 14\" to 22\" H"
+      }
+    ],
+    "title": "Bicolor Cane Dragon Tree (Dracaena)",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2789227fb553--po-dracenaredleaf-4IN-po-grower-6f0f61.jpg?v=1629656020",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2789227fb553--po-dracenaredleaf-4IN-po-lr-coco-5cec14.jpg?v=1629656163",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2789227fb553--Dracaena-Marjinata-4IN-Basket-Natural-e25676.jpg?v=1613760795",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2789227fb553--po-dracenaredleaf-4IN-po-cer-white-f8c93c.jpg?v=1629656042",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2789227fb553--pl-DracaenaBicolorCane-10IN-pl-grower-4c1e41.jpg?v=1645899501",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$118.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2789227fb553--pl-DracaenaBicolorCane-10IN-pl-lr-coco-8fdaee.jpg?v=1645899553",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$138.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2789227fb553--pl-DracaenaBicolorCane-10IN-pl-basket-569e46.jpg?v=1645899628",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$138.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

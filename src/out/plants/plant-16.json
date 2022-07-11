@@ -1,0 +1,78 @@
+{
+  "data": {
+    "description": [
+      "Your new favorite colorful succulent!",
+      "An easy-to-grow, long-blooming succulent, Kalanchoes are a mainstay of just about any low-care space that wants a splash of color! They love bright, natural light without much direct sun. Since it's actually a succulent, their fat, fleshy leaves don't want to be watered all the time. Instead, they prefer less frequent waterings (and a little more when they're flowering).",
+      "You will receive a surprise beautiful color from our collection!",
+      "*Our blooms vary and may not arrive as they are pictured. We ship our plants still in buds, so you can enjoy a fresh bloom in your home.*"
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "4\" to 6\" W 5\" to 8\" H"
+      }
+    ],
+    "title": "Blooming Kalanchoe",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/916175675d67--pl-BloomingKalanchoe-4IN-po-grower-d682fd.jpg?v=1656469576",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/916175675d67--pl-BloomingKalanchoe-4IN-po-lr-gray-3541fe.jpg?v=1656469595",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/916175675d67--pl-BloomingKalanchoe-4IN-po-basket-b429f7.jpg?v=1656469625",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/916175675d67--KalanchoBloom-6-Grower-18cbb3.jpg?v=1616431931",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/916175675d67--KalanchoBloom-6IN-Basket-Natural-16998f.jpg?v=1611426127",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/916175675d67--KalanchoBloom-6IN-Ceramic-White-57d4df.jpg?v=1611426047",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

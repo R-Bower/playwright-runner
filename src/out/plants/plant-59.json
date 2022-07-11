@@ -1,0 +1,83 @@
+{
+  "data": {
+    "description": [
+      "Guzmania Bromeliads add significant intrigue, color, and beauty to your Green Space. They have long, slender evergreen leaves that are topped by a single brilliant inflorescence of tongue-like petals. The bloom will be deep red, maroon, orange, pink, or yellow, or some combination thereof.",
+      "Bromeliad flowers can last 3 to 6 months, but they typically flower just once.",
+      "Fun Fact: The Guzmania genus is named after Anastasio Guzman, a Spanish pharmacist, and naturalist who died in 1807."
+    ],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "6\" to 12\" W 12\" to 24\" H"
+      }
+    ],
+    "title": "All The Guzmania Bromeliads",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/04df34699d1f--grp-brobundle-4IN-po-grower-945d3e.jpg?v=1634324811",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$129.00"
+          },
+          {
+            "imgSrc": "",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$169.00"
+          },
+          {
+            "imgSrc": "",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$169.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/04df34699d1f--grp-brobundle-6IN-po-grower-ec5d4b.jpeg?v=1634324370",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$170.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/04df34699d1f--grp-brobundle-6IN-po-lr-coco-7dbbf9.jpg?v=1634325842",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$218.00"
+          },
+          {
+            "imgSrc": "",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$218.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/04df34699d1f--grp-brobundle-6IN-po-cer-white-a81e79.jpg?v=1634325749",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$226.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

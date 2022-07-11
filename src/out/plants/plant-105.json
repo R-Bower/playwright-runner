@@ -1,0 +1,87 @@
+{
+  "data": {
+    "description": [
+      "The Asparagus Densiflorus 'Sprengeri'' (Asparagus Fern) has arching fronds that resemble a bottle-brush. Their needle-like cladodes (segments of a stem) function like leaves—an elegant addition to your hanging basket or tabletop collection."
+    ],
+    "metadata": [
+      {
+        "id": "pet-hazard",
+        "label": "Pet Hazard",
+        "value": "Toxic To Touch"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "4\" to 6\" W 6\" to 8\" H"
+      }
+    ],
+    "title": "Fern Asparagus Sprengerii",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2de3dd093809--AsparagusFern-Grower-4IN-87c2eb.jpg?v=1623494033",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2de3dd093809--AsparagusFern-LRCoco-4IN-a4fb01.jpg?v=1624210153",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2de3dd093809--AsparagusFern-Basket-4IN-875681.jpg?v=1624210205",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2de3dd093809--AsparagusFern-White-4IN-377db7.jpg?v=1623494085",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2de3dd093809--FernAsparagus-Grower-6-4b5236.jpg?v=1630957394",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2de3dd093809--FernAsparagus-LRBl-6-de532c.jpg?v=1630957541",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2de3dd093809--FernAsparagus-Basket-6-490ec3.jpg?v=1630957604",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2de3dd093809--FernAsparagus-White-6-d89998.jpg?v=1630957435",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "data": {
+    "description": [
+      "Polka dot plants make a wonderful indoor plant, but you can also grow them as annuals in temperate to warm zones. Their foliage is an attractive mix of brightly colored perennial flowers and grows into an attractive mound. This adorable plant offers an amazing contrast to other plants in your Green Space. A native to South Africa, East Asia, and Madagascar, the Hypoestes Phyllostachya or Polka Dot Plant grows to approximately 2 feet tall and wide."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "Plays Hard to Get"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "4\" to 5\" W 5\" to 6\" H"
+      }
+    ],
+    "title": "Pink Polka Dot Plant",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/69848aed9ba3--pl-pink-polka-dot-4IN1-po-grower-5e9888.jpg?v=1633519596",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/69848aed9ba3--pl-pink-polka-dot-4IN1-po-lr-coco-75fb43.jpg?v=1625075505",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/69848aed9ba3--pl-pink-polka-dot-4IN1-po-basket-8f5922.jpg?v=1633519669",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/69848aed9ba3--pl-pink-polka-dot-4IN1-po-cer-white-5dc745.jpg?v=1633519621",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      }
+    ]
+  }
+}

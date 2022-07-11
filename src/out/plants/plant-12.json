@@ -1,0 +1,69 @@
+{
+  "data": {
+    "description": [
+      "The Aralia Fabian Stump is an extremely delightful indoor shrub. They have a thick woody stalk with small round leaves, which are green on the top and purple on the bottom. Their name comes from their height — in their natural habitat they only grow to a maximum height of four feet. The Aralia Fabian is a low-maintenance house plant, perfect for beginners, and makes a unique housewarming gift."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "6\" to 7\" W 12\" to 18\" H"
+      }
+    ],
+    "title": "Aralia Fabian Stump",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/0ca29fa0302a--pl-AraliaFabienStump-6IN-po-grower-d65a06.jpg?v=1656468487",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/0ca29fa0302a--pl-AraliaFabienStump-6IN-po-lr-coco-f63a60.jpg?v=1656468532",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/0ca29fa0302a--pl-AraliaFabienStump-6IN-po-basket-5c5424.jpg?v=1656468550",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/0ca29fa0302a--FabienAureliaMing-White-6IN-aad994.jpg?v=1623863386",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/0ca29fa0302a--Aralia-Fabian-8IN-Grower-e1cf99.jpeg?v=1616092627",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$86.00"
+          }
+        ],
+        "sizeId": "large",
+        "sizeLabel": "L"
+      }
+    ]
+  }
+}

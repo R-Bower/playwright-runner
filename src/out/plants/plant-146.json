@@ -1,0 +1,35 @@
+{
+  "data": {
+    "description": [
+      "The Karo Red Mirror Plant is the perfect shrub to add decadence to your landscaping or patio. This Coprosma's glossy green leaves ombre to a deep burgundy. The densely packed leaves of this drought toerant plant add rich color to your space.",
+      "This easy-care pyramidal shrub, the Mirror Plant (Coprosma regens) delights with marbled hues to intensify the winter garden and brighten summer landscapes in warmer climates. Their dramatic foliage color make them a favorite. Place in groupings or combine with colorful succulents."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      }
+    ],
+    "title": "Karo Red Mirror Bush 'Coprosma'",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/33fa05df1220--Coprosma-karo-red-d9e74c.jpg?v=1627336579",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$54.00"
+          }
+        ],
+        "sizeId": "oneGallon",
+        "sizeLabel": "1G"
+      }
+    ]
+  }
+}

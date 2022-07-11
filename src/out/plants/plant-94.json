@@ -1,0 +1,57 @@
+{
+  "data": {
+    "description": [
+      "Known as Hedera helix or \"Shamrock\" Ivy is an award winner!  This Ivy won \"Ivy of the Year\" by the American Ivy Society several times. They get their name from their three rounded equally sized leaves resembling a shamrock as the outer leaves overlap the center one. They are suited for indoor planting or shady spots in the garden protected from winter sun and wind. They are best kept in a container as they can take over a garden bed quickly.  Enjoy your plant hanging in the original grower pot, or remove the hanger and admire them in the decorative pot of your choosing!"
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "4\" to 7\" W 4\" to 8\" H"
+      }
+    ],
+    "title": "Clover Leaf Ivy",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/03177417761b--HerderaIvyShamrock-Grower-4-31acdd.jpg?v=1619529603",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/03177417761b--HederaIvyShamrock-LRCoco-4-c9718b.jpg?v=1623767634",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/03177417761b--HerderaIvyShamrock-Basket-4-33b924.jpg?v=1619529676",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/03177417761b--HederaIvyShamrock-White-4-8ecc99.jpg?v=1623767694",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      }
+    ]
+  }
+}

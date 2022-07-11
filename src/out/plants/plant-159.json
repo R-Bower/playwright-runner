@@ -1,0 +1,27 @@
+{
+  "data": {
+    "description": [],
+    "metadata": [
+      {
+        "id": "pet-hazard",
+        "label": "Pet Hazard",
+        "value": "Toxic To Touch"
+      }
+    ],
+    "title": "Dahlia Karma Corona Pink",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/91e869b315a0--pl-dahliakarmacoronapink-1gal-po-grower-0c0ce0.jpg?v=1652401877",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$42.00"
+          }
+        ],
+        "sizeId": "oneGallon",
+        "sizeLabel": "1G"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "data": {
+    "description": [
+      "They are A VIBE!",
+      "Bring the rainforest home with our tropical collection for delivery. Featuring four plants, they are the perfect way to begin your indoor jungle. The selection includes golden pothos, which is a super easy-to-care-for ivy with lovely trailing leaves. There's also a peacock plant, famous for its striking foliage that's red underneath and variegated shades of green on top — just like a watermelon. Finally, there's a flamingo flower with bright pink blooms."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "Plays Hard to Get"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "6\" to 8\" W 8\" to 16\" H"
+      }
+    ],
+    "title": "Tropical VIBE Plant Collection",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/a7d566548fea--pl-coll-trop-6IN4-Grower-aa80aa.jpg?v=1611853172",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$187.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/a7d566548fea--pl-coll-trop-6IN4-Ceramic-White-f3f650.jpg?v=1611853240",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$243.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

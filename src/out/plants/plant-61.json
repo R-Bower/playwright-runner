@@ -1,0 +1,63 @@
+{
+  "data": {
+    "description": [
+      "Add a touch of the tropics with this broad-leafed, gorgeous banana tree. Versatile as can be, this patio plant does just as well in a pot or planted in-ground, but make sure they have excellent drainage. Though a dwarf varietal, they can grow upwards of 6 feet tall and will produce fruit once per tree. They will fruit in 2-3 years"
+    ],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "10\" to 12\" W 16\" to 24\" H"
+      }
+    ],
+    "title": "Musa Dwarf Cavendish Banana Tree",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/16875263095a--pl-MusaTropicanaGreenBananaPlant-10IN-po-grower-8be4bf.jpg?v=1637779328",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/16875263095a--pl-MusaTropicanaGreenBananaPlant-10IN-po-grower-8be4bf.jpg?v=1637779328",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$110.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/16875263095a--pl-MusaTropicanaGreenBananaPlant-10IN-po-LR-Coco-587144.jpg?v=1637779418",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$130.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/16875263095a--pl-MusaTropicanaGreenBananaPlant-10IN-po-basket-086ebe.jpg?v=1637779348",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$130.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

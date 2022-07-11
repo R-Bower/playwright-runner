@@ -1,0 +1,53 @@
+{
+  "data": {
+    "description": [
+      "Speckled coloration in various shades of grey, green, and cream that are highly unusual for a foliage plant make this, unlike any Dieffenbachia you’ve ever seen before.",
+      "The Dieffenbachia Memoria Corsii will be one of your new favorites.  They have the most beautiful coloration (in our opinion) of all the dieffenbachia."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      }
+    ],
+    "title": "Dieffenbachia Memoria Corsii",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/142fc7ca2c75--pl-DiffenbachiaSnowMemoriaCorsii-6IN-po-grower-817455.jpg?v=1628285379",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/142fc7ca2c75--pl-DiffenbachiaSnowMemoriaCorsii-6IN-po-lr-coco-dfd8f6.jpg?v=1628285594",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/142fc7ca2c75--pl-DiffenbachiaSnowMemoriaCorsii-6IN-po-basket-052319.jpg?v=1628285627",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/142fc7ca2c75--pl-DiffenbachiaSnowMemoriaCorsii-6IN-po-cer-white-d6f492.jpg?v=1628285403",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

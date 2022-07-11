@@ -1,0 +1,109 @@
+{
+  "data": {
+    "description": [],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "4\" to 6\" W 8\" to 10\" H"
+      }
+    ],
+    "title": "Sansevieria Moonshine",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/e33fc7617828--SanseveriaMoonshine-Grower-4-10527f.jpg?v=1622127047",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/e33fc7617828--SanseveriaMoonshine-LRCoco-4-221785.jpg?v=1622127135",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/e33fc7617828--Sanseveria-Moonshine-4IN-Basket-Natural-467234.jpg?v=1611773532",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/e33fc7617828--SanseveriaMoonshine-White-4-cd7b37.jpg?v=1631737585",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/e33fc7617828--SanseveriaMoonshine-Grower-6-04fe2e.jpg?v=1631737454",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/e33fc7617828--SanseveriaMoonshine-LRCoco-6IN-c58bf1.jpg?v=1623851046",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/e33fc7617828--SanseveriaMoonshine-Basket-6IN-056b6f.jpg?v=1623851105",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/e33fc7617828--SanseveriaMoonshine-White-6IN-bc0fac.jpg?v=1623850901",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/e33fc7617828--SanseveriaMoonshine-Grower-6-04fe2e.jpg?v=1631737454",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$84.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/e33fc7617828--pl-SansevieriaMoonshine-8IN-pl-lr-coco-f6f689.jpg?v=1645905962",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$100.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/e33fc7617828--pl-SansevieriaMoonshine-8IN-pl-basket-88e3e4.jpg?v=1645906006",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$100.00"
+          }
+        ],
+        "sizeId": "large",
+        "sizeLabel": "L"
+      }
+    ]
+  }
+}

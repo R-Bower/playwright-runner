@@ -1,0 +1,41 @@
+{
+  "data": {
+    "description": [
+      "Enjoy a bit of the Mediterranean in your own tropical paradise! Plant this dwarf shrub in a pot on the patio or as an evergreen hedge for privacy. They are non-fruiting and can be clipped or sheared into geometric shapes. They love full sun lending formality to the garden."
+    ],
+    "metadata": [
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      }
+    ],
+    "title": "Dwarf Olive Tree",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/33de0786ed68--Olive-CAN-5-351428.jpg?v=1655398578",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$54.00"
+          }
+        ],
+        "sizeId": "oneGallon",
+        "sizeLabel": "1G"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/33de0786ed68--Olive-CAN-5-351428.jpg?v=1655398578",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$98.00"
+          }
+        ],
+        "sizeId": "fiveGallon",
+        "sizeLabel": "5G"
+      }
+    ]
+  }
+}

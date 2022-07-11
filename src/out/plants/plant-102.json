@@ -1,0 +1,76 @@
+{
+  "data": {
+    "description": [
+      "The emerald, heart-shaped leaves of the Philodendron Cordatum Green are a great beginner's plant. They're easy to thrive in medium to bright indirect light while letting the soil dry out a bit in between. Hang them from the ceiling or shelf or train them to climb up a pole! The shiny green leaves cascade over a container and make a beautiful display in any space."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "Plays Hard to Get"
+      }
+    ],
+    "title": "Philodendron Green Cordatum",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2f774c2371e7--PhilordendrunCortadun-4IN-Grower-5b2412.jpg?v=1611767750",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2f774c2371e7--pl-philodendron-lemon-lime-4IN1-po-lr-coco-82f99b.jpg?v=1625074802",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2f774c2371e7--PhilordendrunCortadun-4IN-Basket-Natural-09826e.jpg?v=1611767924",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2f774c2371e7--PhilordendrunCortadun-4IN-Ceramic-White-c91001.jpg?v=1611767790",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2f774c2371e7--pl-philodendron-cordatum-6IN1-po-lr-coco-0c373a.jpg?v=1625074537",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2f774c2371e7--pl-philodendron-cordatum-6IN1-po-basket-36a8f3.jpg?v=1625074589",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2f774c2371e7--pl-philodendron-cordatum-6IN1-po-cer-white-6f010e.jpg?v=1625074379",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

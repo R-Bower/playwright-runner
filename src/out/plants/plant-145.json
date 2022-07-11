@@ -1,0 +1,54 @@
+{
+  "data": {
+    "description": [
+      "Your new favorite colorful succulent!",
+      "An easy-to-grow, long-blooming succulent, Calandivas are a mainstay of just about any low care space that wants a splash of color! They love bright, natural light without much direct sun. Since it's actually a succulent, their fat, fleshy leaves don't want to be watered all the time. Instead they prefer less frequent waterings (and a little more when they're flowering).",
+      "You will receive a surprise beautiful color from our collection!"
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      }
+    ],
+    "title": "Calandiva",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/96155a3a5a6b--CalandivaYellow-Grower-4IN-03df72.jpg?v=1632862380",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/96155a3a5a6b--CalandivaYellow-LRBlk-4IN-76664e.jpg?v=1632862529",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/96155a3a5a6b--CalandivaYellow-Basket-4IN-9f83b2.jpg?v=1632862441",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/96155a3a5a6b--CalandivaYellow-White-4IN-1732d3.jpg?v=1632862392",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      }
+    ]
+  }
+}

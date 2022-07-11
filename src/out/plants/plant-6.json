@@ -1,0 +1,112 @@
+{
+  "data": {
+    "description": [
+      "The ZZ plant is an excellent low-maintenance indoor plant (trust us, they are difficult to kill). You can place them almost anywhere, and they will grow, but they do appreciate a little bit of light now and then. Wherever they go, they are a tasteful and classy addition to your Green Space.",
+      "Our ZZ plant is the ideal choice for inexperienced plant parents too. Not only are they adorable, with glossy dark green leaves, but they are also really one of our most low-maintenance houseplants. They thrive in all kinds of home and office spots and can go for weeks without watering. You can keep it on your desk or your bedside table. Did we mention they are a natural air purifier too?"
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "4\" to 6\" W 7\" to 10\" H"
+      }
+    ],
+    "title": "ZZ Plant",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/7944bf038f3b--ZZPlant-001-5fcd3e.jpg?v=1622138048",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/7944bf038f3b--ZZPlant-LRCoco-4-38277e.jpg?v=1622139214",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/7944bf038f3b--ZZPlant-Basket-4-42a441.jpg?v=1622138073",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/7944bf038f3b--ZZPlant-White-4-6e282e.jpg?v=1622139158",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/7944bf038f3b--pl-zz-plant-6IN-po-grower-9129df.jpg?v=1628199216",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/7944bf038f3b--pl-zz-plant-6IN-po-lr-coco-0cd234.jpg?v=1628199455",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/7944bf038f3b--pl-zz-plant-6IN-po-basket-2e0b21.jpg?v=1628199342",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/7944bf038f3b--pl-zz-plant-6IN-po-cer-white-7bbbe4.jpg?v=1628199237",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/7944bf038f3b--ZZPlant-Grower-10-76ae28.jpg?v=1622138088",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$118.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/7944bf038f3b--ZZPlant-LRCoco-10-9e4662.jpg?v=1622139311",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$138.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/7944bf038f3b--ZZ-Plant-Extra-Large-Basket-Light-d36a00.jpeg?v=1616368736",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$138.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

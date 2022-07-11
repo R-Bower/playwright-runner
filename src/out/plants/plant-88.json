@@ -1,0 +1,81 @@
+{
+  "data": {
+    "description": [
+      "Add an ornamental touch to your home or garden with our Japanese aralia for delivery. This evergreen shrub has large hand-shaped leaves, which can often cause the plant to lean to one side. They prefer low light and can be planted outside in areas where winter temperatures stay above 5°F. If you care for them properly, they will reward you with flowers during winter."
+    ],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "10\" to 12\" W 24\" to 32\" H"
+      }
+    ],
+    "title": "Japanese Aralia 'Fatsia Japonica'",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/af380c080bd6--pl-AraliaSieboldiiFatsiaJaponica-6IN-po-grower-e14456.jpg?v=1637781515",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/af380c080bd6--pl-AraliaSieboldiiFatsiaJaponica-6IN-po-lr-coco-021158.jpg?v=1637781672",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/af380c080bd6--pl-AraliaSieboldiiFatsiaJaponica-6IN-po-basket-c028eb.jpg?v=1637781741",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/af380c080bd6--pl-AraliaSieboldiiFatsiaJaponica-6IN-po-cer-white-178d3e.jpg?v=1637781536",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/af380c080bd6--pl-JapaneseAralia-10IN-po-grower-a6bb4e.jpg?v=1637779570",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$118.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/af380c080bd6--pl-JapaneseAralia-10IN-po-lr-coco-b358f8.jpg?v=1637779680",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$138.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/af380c080bd6--pl-JapaneseAralia-10IN-po-basket-eacb7f.jpg?v=1637779589",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$138.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

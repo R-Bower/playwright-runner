@@ -1,0 +1,81 @@
+{
+  "data": {
+    "description": [
+      "Does it get any cuter than a pineapple plant with fruit? We doubt it. Nestled among the spiky foliage, the tasty fruit — which symbolizes hospitality — can be harvested and eaten once they are ripe. Save the top, replant them, and wait for a new one to grow. One of the easiest tropical plants to care for, they just need lots of sunshine and a little water."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "6\" to 10\" W 8\" to 12\" H"
+      }
+    ],
+    "title": "Pineapple Plant with Fruit",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/a34007ed1d08--pl-pineapple-4IN-po-grower-4e4b77.jpg?v=1656479749",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$33.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/a34007ed1d08--pl-pineapple-4IN-po-lr-coco-1d501c.jpg?v=1656479775",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$43.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/a34007ed1d08--pl-pineapple-4IN-po-basket-165698.jpg?v=1656479757",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$43.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/a34007ed1d08--pl-pineapple-6IN-po-grower-afc762.jpg?v=1635102371",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$45.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/a34007ed1d08--pl-pineapple-6IN-po-lr-coco-0f44af.jpg?v=1635102504",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$57.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/a34007ed1d08--pl-pineapple-6IN-po-basket-ccc475.jpg?v=1635102553",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$57.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/a34007ed1d08--pl-pineapple-6IN-po-cer-white-dca419.jpg?v=1635102390",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$59.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

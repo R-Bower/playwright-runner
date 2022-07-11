@@ -1,0 +1,135 @@
+{
+  "data": {
+    "description": [
+      "It doesn't get more iconic than the swiss cheese plant. Also known as Monstera Deliciosa, they are famous in interior design circles for their notched leaves. This large one will instantly bring on-trend jungle vibes to your home. They love to spread out, so give them plenty of space and use a coir pole to keep them upright. They are easy to care for and make an ideal first houseplant."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "Plays Hard to Get"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "8\" to 18\" W 16\" to 24\" H"
+      }
+    ],
+    "title": "Split Leaf Philodendron (Monstera)",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/26987e7256a1--pl-swiss-cheese-plant-4IN-po-grower-3d3572.jpg?v=1628198854",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/26987e7256a1--pl-swiss-cheese-plant-4IN-po-lr-coco-89251d.jpg?v=1628198738",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/26987e7256a1--pl-swiss-cheese-plant-4IN-po-basket-ec3dd6.jpg?v=1628198789",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/26987e7256a1--pl-swiss-cheese-plant-4IN-po-cer-white-918a5b.jpg?v=1628198975",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/26987e7256a1--pl-SplitLeafPhilodendron-6IN-po-grower-71850a.jpg?v=1629487902",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/26987e7256a1--pl-SplitLeafPhilodendron-6IN-po-lr-coco-ee30f8.jpg?v=1629488099",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/26987e7256a1--pl-SplitLeafPhilodendron-6IN-po-basket-88248c.jpg?v=1629488157",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/26987e7256a1--pl-SplitLeafPhilodendron-6IN-po-cer-white-8e383a.jpg?v=1629487933",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/26987e7256a1--pl-SplitLeafPhilodendron-8IN-po-grower-5647b2.jpg?v=1637776907",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$86.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/26987e7256a1--pl-SplitLeafPhilodendron-8IN-po-lr-coco-e62c43.jpg?v=1637776962",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$102.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/26987e7256a1--pl-SplitLeafPhilodendron-8IN-po-basket-d156f1.jpg?v=1637776985",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$102.00"
+          }
+        ],
+        "sizeId": "large",
+        "sizeLabel": "L"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/26987e7256a1--Monstera-Grower-10-ce3635.jpg?v=1633026364",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$118.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/26987e7256a1--Monstera-LRCoco-10-4b7598.jpg?v=1633026430",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$138.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/26987e7256a1--Monstera-Basket-10-225ab9.jpg?v=1633026397",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$138.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

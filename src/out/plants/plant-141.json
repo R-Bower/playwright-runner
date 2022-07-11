@@ -1,0 +1,58 @@
+{
+  "data": {
+    "description": [
+      "Your plants are your pets. Just don't tell your cat or dog! This plant collection Is perfect for your home and your furry friends. If you cat or dog gets a little taste of your plant, they will be totally okay!",
+      "Collection includes:"
+    ],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "6\" to 8\" W 4\" to 12\" H"
+      }
+    ],
+    "title": "Favorite Furry Friends Pet Collection",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/1016838ccd83--grp-PetFriendly1-6IN-po-Grower-0934f7.jpg?v=1647886939",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$170.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/1016838ccd83--grp-PetFriendly1-6IN-po-lr-coco-84804a.jpg?v=1647887138",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$218.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/1016838ccd83--grp-PetFriendly1-6IN-po-basket-678181.jpg?v=1647887154",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$218.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/1016838ccd83--grp-PetFriendly1-6IN-po-cer-white-e3e238.jpg?v=1647887126",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$226.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

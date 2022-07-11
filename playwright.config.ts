@@ -12,6 +12,7 @@ const config: PlaywrightTestConfig = {
       },
     },
   ],
+  testMatch: "src/**/*.ts",
   use: {
     trace: "on-first-retry",
   },

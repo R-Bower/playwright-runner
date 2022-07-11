@@ -1,0 +1,81 @@
+{
+  "data": {
+    "description": [
+      "One of our favorite patio plants, the Sago Palm, instantly brings a touch of the tropics to your outdoor space. This hardy little beauty is ideal for beginners. They have a tough textured trunk and shiny green leaves. Keep them in a bright spot, and they'll thrive. They can also be kept inside and has a reputation as a great air purifier."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "10\" to 14\" W 18\" to 24\" H"
+      }
+    ],
+    "title": "Sago Palm",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/aacb7edd8567--pl-sagopalm-6IN-po-grower-f24c1d.jpg?v=1635102804",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/aacb7edd8567--pl-sagopalm-6IN-po-lr-coco-bb609c.jpg?v=1635103076",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/aacb7edd8567--pl-sagopalm-6IN-po-basket-cf4769.jpg?v=1635103146",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/aacb7edd8567--pl-sagopalm-6IN-po-cer-white-fd66c9.jpg?v=1635102906",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/aacb7edd8567--Sago-Grower-10-981673.jpg?v=1625774433",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$118.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/aacb7edd8567--SagoPalm-LRCoco-10IN-d6e661.jpg?v=1624040264",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$138.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/aacb7edd8567--Sago-10-42-10IN-Basket-Natural-3e1510.jpg?v=1611772273",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$138.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "data": {
+    "description": [
+      "Echeverias are lovely succulents that are both low-maintenance and gorgeous. Their beautiful rosette-like patterns, a wide range of colors, and stunning flowers make them one of the most beloved succulents out there - perfect for any Green Space!",
+      "This Assorted Echeveria 4-Pack includes four echeverias of varying colors and species."
+    ],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "4\" to 5\" W 6\" to 7\" H"
+      }
+    ],
+    "title": "Motley Crew Echeveria Succulents: 4 Pack",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b0508f1223b1--Grp-Succulent-4IN-Grower-589e1a.jpg?v=1651708907",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$108.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b0508f1223b1--Grp-Succulent-4IN-lr-coco-c5139a.jpg?v=1651708838",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$148.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      }
+    ]
+  }
+}

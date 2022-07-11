@@ -1,0 +1,75 @@
+{
+  "data": {
+    "description": [],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      }
+    ],
+    "title": "Calathea Rattlesnake",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f75dc8333cf8--pl-CalatheaRattlesnake-4IN-po-grower-fb2c4b.jpg?v=1641666034",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f75dc8333cf8--pl-CalatheaRattlesnake-4IN-po-lr-coco-c02be7.jpg?v=1641666157",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f75dc8333cf8--pl-CalatheaRattlesnake-4IN-po-basket-d60f6b.jpg?v=1641666207",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f75dc8333cf8--pl-CalatheaRattlesnake-4IN-po-cer-white-60e234.jpg?v=1641666057",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f75dc8333cf8--pl-CalatheaLandcifoliaRattlesnake-6IN-po-grower-a67656.jpg?v=1643050143",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f75dc8333cf8--pl-CalatheaLandcifoliaRattlesnake-6IN-po-lr-coco-6a673c.jpg?v=1643050431",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f75dc8333cf8--pl-CalatheaLandcifoliaRattlesnake-6IN-po-basket-58661e.jpg?v=1643050483",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f75dc8333cf8--pl-CalatheaLandcifoliaRattlesnake-6IN-po-cer-white-9bd8e0.jpg?v=1643050187",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

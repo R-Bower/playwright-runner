@@ -1,0 +1,51 @@
+{
+  "data": {
+    "description": [
+      "This Pygmy Date Palm brings tropical vibes into any space. Also known as the Phoenix Roebelenii pygmy date palm, their name suggests they are small but this little cutie can grow. Expect heights of six to twelve feet if you look after them well. They originally come from Southeast Asia, so if you live in a USDA Zone 10-11 they'll thrive on your patio. Otherwise, they make an excellent indoor plant."
+    ],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "10\" to 14\" W 24\" to 36\" H"
+      }
+    ],
+    "title": "Pygmy Date Palm",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/547663ea0432--DatePalm-Grower-10-281b6f.jpg?v=1629833400",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$118.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/547663ea0432--DatePalm-LRCoco-10IN-414a38.jpg?v=1624038640",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$138.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/547663ea0432--pl-pigm-palm-10IN1-Basket-Natural-329ba2.jpg?v=1611769952",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$138.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

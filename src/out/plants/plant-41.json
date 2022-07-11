@@ -1,0 +1,81 @@
+{
+  "data": {
+    "description": [
+      "Enjoy the soft, fine textured arching fronds of the Arecas palm (Dypsis lutescens) as an indoor house plant or in the garden in warmer zones of the country. Place them where there is headroom to grow, like in a foyer stairwell or outside porch area in a container."
+    ],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "6\" to 8\" W 10\" to 14\" H"
+      }
+    ],
+    "title": "Areca palm",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5a2f1fe1a9bf--pl-AreciaButterflyPalm-4IN-po-grower-00b913.jpg?v=1635019782",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5a2f1fe1a9bf--pl-AreciaButterflyPalm-4IN-po-lr-coco-a08c16.jpg?v=1635019968",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5a2f1fe1a9bf--pl-AreciaButterflyPalm-4IN-po-basket-31d5e5.jpg?v=1635019800",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5a2f1fe1a9bf--pl-AreciaButterflyPalm-4IN-po-cer-white-17e511.jpg?v=1635019857",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5a2f1fe1a9bf--pl-ParlorPalm-6IN-pl-grower-81f90f.jpg?v=1646672698",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5a2f1fe1a9bf--pl-ParlorPalm-6IN-pl-lr-coco-daa8b4.jpg?v=1646672631",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/5a2f1fe1a9bf--pl-ParlorPalm-6IN-pl-cer-white-7ce203.jpg?v=1646672728",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "description": [],
+    "metadata": [
+      {
+        "id": "pet-hazard",
+        "label": "Pet Hazard",
+        "value": "Toxic To Touch"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "High Maintenance"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "6\" to 12\" W 10\" to 18\" H"
+      }
+    ],
+    "title": "Alocasia Dark Star Elephant Ear",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/201a153f9ab6--pl-alocaciadarkstarelephantear-6IN-po-grower-1e3747.jpg?v=1632865109",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/201a153f9ab6--pl-alocaciadarkstarelephantear-6IN-po-lr-coco-4ba5b5.jpg?v=1632938349",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/201a153f9ab6--pl-alocaciadarkstarelephantear-6IN-po-basket-40d422.jpg?v=1632865134",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/201a153f9ab6--pl-alocaciadarkstarelephantear-6IN-po-cer-white-84960c.jpg?v=1632938299",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/201a153f9ab6--pl-AlocasiaElephantEars-10IN-pl-grower-7e4a4e.jpg?v=1645897780",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$118.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/201a153f9ab6--pl-AlocasiaElephantEars-10IN-pl-lr-coco-3d470d.jpg?v=1645897851",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$138.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/201a153f9ab6--pl-AlocasiaElephantEars-10IN-pl-basket-b74ac6.jpg?v=1645897878",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$138.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

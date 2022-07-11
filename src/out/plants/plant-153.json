@@ -1,0 +1,41 @@
+{
+  "data": {
+    "description": [
+      "The New Zealand flax (Phormium tenax) tropical-looking, easy-care plant features long colorful sword-like leaves to emerge from a clump. Multicolored foliage of dark red, green, golden, purple, and burgundy make this an eye-catching display. Their grass-like texture makes them a perfect plant for planting in a mass on a bank or as a filler in a contemporary setting."
+    ],
+    "metadata": [
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      }
+    ],
+    "title": "Jack Spratt New Zealand Flax (Phormium)",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/d75d91f6795d--Phormium-jack-spratt-0b75ab.jpg?v=1628793417",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$54.00"
+          }
+        ],
+        "sizeId": "oneGallon",
+        "sizeLabel": "1G"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/d75d91f6795d--Phormium-jack-spratt2-97092d.jpg?v=1628793445",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$98.00"
+          }
+        ],
+        "sizeId": "fiveGallon",
+        "sizeLabel": "5G"
+      }
+    ]
+  }
+}

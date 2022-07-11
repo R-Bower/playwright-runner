@@ -1,0 +1,59 @@
+{
+  "data": {
+    "description": [
+      "Enjoy the intense aromatic smell of Rosmarinus Officinalis (Rosemary) as you brush it with your hand or along the garden path. Its gray-green, needle-like leaves grow up to 1.5\" long and are closely spaced together. White or blue flowers eventually bloom on this herb, making it more appealing in the garden. Use as an ornamental in the garden or a garden pot. Add it to your culinary dishes with meats and veggies, or make scented sachets.",
+      "Rosemary may not be in bloom upon delivery"
+    ],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      }
+    ],
+    "title": "Tuscan Blue Rosemary",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/8fc7a0279bdf--Rosemary-1Gal-Grower-e1d3dc.jpg?v=1611857759",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$54.00"
+          }
+        ],
+        "sizeId": "oneGallon",
+        "sizeLabel": "1G"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/8fc7a0279bdf--pl-tuscanbluerosemary-5gal-po-grower-2c36f2.jpg?v=1657298452",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$98.00"
+          }
+        ],
+        "sizeId": "fiveGallon",
+        "sizeLabel": "5G"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/8fc7a0279bdf--pl-rosemary-4IN-po-grower-0caacc.jpg?v=1655395186",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      }
+    ]
+  }
+}

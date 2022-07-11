@@ -1,0 +1,65 @@
+{
+  "data": {
+    "description": [
+      "The watermelon peperomia is the absolute best name for this plant, because each of the leaves look like tiny watermelons. They have waxy, green and silver striped leaves attached to short, reddish-purple stems. This peperomia variety is the perfect addition to your indoor plant collection.",
+      "The watermelon peperomia is easy to grow and is very adaptable, making them great for beginners. They fill up small spaces nicely, and they stay fairly compact, only growing about a foot."
+    ],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      }
+    ],
+    "title": "Watermelon Peperomia",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/c6269e79757f--WatermelonPeperomia-001-70f088.jpg?v=1626901835",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/c6269e79757f--WatermelonPeperomia-LRCoco-4-1422b0.jpg?v=1626902353",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/c6269e79757f--WatermelonPeperomia-Basket-4-152d14.jpg?v=1626901958",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/c6269e79757f--WatermelonPeperomia-White-4-79cd40.jpg?v=1626901892",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/c6269e79757f--medium-watermelon-peperomia-c3fd71.jpg?v=1626902381",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

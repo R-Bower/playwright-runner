@@ -1,0 +1,132 @@
+{
+  "data": {
+    "description": [
+      "This beautiful Peace Lily (Spathiphyllum) will bring elegance and content to any home. As well as being a certified peace symbol — thanks to their striking white flowers — they are also renowned for their air-purifying abilities. People often gift this plant as a sign of everlasting life to people facing loss or hardship.",
+      "Easy to care for, this indoor plant prefers partial shade and just a touch of water. They make a pretty addition to any bedroom, and because they improve air quality, they can even help stop snoring.",
+      "*May not have white spath showing on arrival.",
+      "*Our blooms vary and may not arrive as they are pictured. We ship our plants still in buds, so you can enjoy a fresh bloom in your home.*"
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "4\" to 6\" W 8\" to 10\" H"
+      }
+    ],
+    "title": "Peace Lily",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/4a8f8381f9ca--pl-peace-lily-bloom-4IN1-po-grower-840997.jpg?v=1625073834",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/4a8f8381f9ca--pl-peace-lily-bloom-4IN1-po-lr-coco-5b246b.jpg?v=1630437172",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/4a8f8381f9ca--Peacelily-6-Basket-c20bc9.jpg?v=1630436847",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/4a8f8381f9ca--Peacelily-4-White-d1ca8f.jpg?v=1630437266",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/4a8f8381f9ca--pl-PeaceLily-6IN-grower-5f541f.jpg?v=1638551698",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/4a8f8381f9ca--pl-PeaceLily-6IN-lr-coco-143229.jpg?v=1638551918",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/4a8f8381f9ca--pl-PeaceLily-6IN-basket-e27ffc.jpg?v=1638551967",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/4a8f8381f9ca--pl-PeaceLily-6IN-cer-white-5d79bf.jpg?v=1638551775",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/4a8f8381f9ca--Peace-Lily-Large-Grower-992214.jpeg?v=1616094236",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$86.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/4a8f8381f9ca--Peace-Lily-Large-Basket-Light-b56c82.jpeg?v=1616094257",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$102.00"
+          }
+        ],
+        "sizeId": "large",
+        "sizeLabel": "L"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/4a8f8381f9ca--PeaceLily-Grower-10IN-172db7.jpg?v=1630437917",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$118.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/4a8f8381f9ca--PeaceLily-LRCoco-10IN-cfc1df.jpg?v=1630437373",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$138.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/4a8f8381f9ca--PeaceLily-Basket-10IN-de2476.jpg?v=1630437875",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$138.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "description": [
+      "Our ponytail palm plants for delivery will add a quirky touch to any room. They have thin, curly leaves that gently tumble down past their thick stalk. Although they looks utterly whimsical, they are actually low maintenance and one of our favorite starter plants. They enjoy direct sunlight and can live on your patio if you live in USDA hardiness zones 9 through 11."
+    ],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "4\" to 7\" W 4\" to 8\" H"
+      }
+    ],
+    "title": "Ponytail Palm",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/beed6567e5c1--pl-PonytailPalm-5Gal-pl-grower-71ddac.jpg?v=1645903422",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$98.00"
+          }
+        ],
+        "sizeId": "fiveGallon",
+        "sizeLabel": "5G"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/beed6567e5c1--pl-BeaucarneaSeedling-4IN-po-grower-8ea6fe.jpg?v=1638636670",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/beed6567e5c1--PonyTail-LRBlack-6-37a671.jpg?v=1619622517",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/beed6567e5c1--PonyTail-White-6-306f4f.jpg?v=1619636295",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/beed6567e5c1--pl-PalmPlant-10IN-grower-6dfc66.jpg?v=1638551997",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$118.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/beed6567e5c1--pl-PalmPlant-10IN-lr-gray-2e32f7.jpg?v=1638552093",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$138.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/beed6567e5c1--pl-PalmPlant-10IN-basket-644b1f.jpg?v=1638552009",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$138.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "data": {
+    "description": [],
+    "metadata": [
+      {
+        "id": "pet-hazard",
+        "label": "Pet Hazard",
+        "value": "Toxic To Touch"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      }
+    ],
+    "title": "On Top® Sunset Shades Tuberous Begonia",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f3e12d2fecf9--pl-BegoniaOnTopSunsetShades-4IN-po-grower-8d619b.jpg?v=1653507886",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f3e12d2fecf9--pl-BegoniaOnTopSunsetShades-4IN-po-lr-coco-eb1c3d.jpg?v=1653508832",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f3e12d2fecf9--pl-BegoniaOnTopSunsetShades-4IN-po-basket-819517.jpg?v=1653509523",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/f3e12d2fecf9--pl-BegoniaOnTopSunsetShades-4IN-po-cer-white-5c3bcc.jpg?v=1653508793",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "data": {
+    "description": [
+      "The Ruby Rubber Tree is easy for beginners and a great starter plant! They can quickly grow up to 8' inside and do best in bright to moderate indirect light."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "6\" to 8\" W 10\" to 16\" H"
+      }
+    ],
+    "title": "Ruby Rubber Tree",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/d383fdfa177a--pl-ficuselasticaruby-6IN-po-grower-0cd352.jpg?v=1630700488",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/d383fdfa177a--pl-ficuselasticaruby-6IN-po-lr-coco-50a6fe.jpg?v=1630700621",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/d383fdfa177a--pl-ficuselasticaruby-6IN-po-basket-662621.jpg?v=1630700700",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/d383fdfa177a--pl-ficuselasticaruby-6IN-po-cer-white-c666fb.jpg?v=1630700500",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/d383fdfa177a--pl-ruby-ficus-10IN1-po-grower-903004.jpg?v=1625680562",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$118.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/d383fdfa177a--pl-ruby-ficus-10IN1-po-lr-coco-b74dbc.jpg?v=1625680649",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$138.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/d383fdfa177a--pl-ruby-ficus-10IN1-po-basket-f1a832.jpg?v=1625680715",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$138.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

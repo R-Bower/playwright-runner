@@ -1,0 +1,77 @@
+{
+  "data": {
+    "description": [
+      "Get your color fix with flamingo flowers. This year-round bloomer is a tropical treasure, instantly bringing vacation vibes to your home with their bold blooms. They change color through the year, ranging from vivid scarlet to pretty pink and rich purple. They can survive in low light, but medium to bright indirect sunlight will keep them happiest.",
+      "*Our blooms vary and may not arrive as they are pictured. We ship our plants still in buds, so you can enjoy a fresh bloom in your home.*"
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      }
+    ],
+    "title": "Flamingo Flower",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/c2adf0ae9886--pl-FlamingoFlower-4IN-pl-grower-dc5744.jpg?v=1645637095",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/c2adf0ae9886--pl-FlamingoFlower-4IN-pl-lr-coco-baf4c9.jpg?v=1645637157",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/c2adf0ae9886--pl-FlamingoFlower-4IN-pl-cer-white-b754d0.jpg?v=1645637140",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/c2adf0ae9886--pl-FlamingoFlower-6IN-pl-grower-e791de.jpg?v=1645636921",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/c2adf0ae9886--pl-FlamingoFlower-6IN-pl-lr-coco-3eb400.jpg?v=1645637054",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/c2adf0ae9886--pl-FlamingoFlower-6IN-pl-basket-8e0c47.jpg?v=1645637037",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/c2adf0ae9886--pl-FlamingoFlower-6IN-pl-cer-white-b8ba3b.jpg?v=1645636937",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

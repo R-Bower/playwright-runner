@@ -1,0 +1,58 @@
+{
+  "data": {
+    "description": [
+      "Looking for a collection of medium-sized plants that's safe for your pets? Look no more! You've arrived at the right place. The Peacock Plant and Chinese Money Plant are both gorgeous, pet-friendly, and, most importantly calming!",
+      "This collection includes two medium-sized Peacock Plants two medium-sized Chinese Money Plants."
+    ],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "6\" to 6\" W 12\" to 18\" H"
+      }
+    ],
+    "title": "Zen Pet Friendly Collection",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/63e9fdf261a7--grp-plantfriendly-6IN-po-grower-cfaffb.jpg?v=1628284056",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$170.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/63e9fdf261a7--grp-plantfriendly-6IN-po-lr-coco-e28761.jpg?v=1628284224",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$218.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/63e9fdf261a7--grp-plantfriendly-6IN-po-basket-4a8b0b.jpg?v=1628284260",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$218.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/63e9fdf261a7--grp-plantfriendly-6IN-po-cer-white-9b07e4.jpg?v=1628284193",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$226.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "data": {
+    "description": [
+      "Calla Lily Yellow (Zantedeschia rehmannii) is a waxy, long-stemmed model that captivated Georgia O'Keeffe's attention in the '20s in her popular art piece. Observe the curves and unique blooms that hypnotically make you stare a little longer. We suspect the gods painted this one from a paintbrush dipped in the sun's rays. You may even have to wear your sunglasses when gazing at her!",
+      "*Our blooms vary and may not arrive as they are pictured. We ship our plants still in buds, so you can enjoy a fresh bloom in your home.*"
+    ],
+    "metadata": [
+      {
+        "id": "pet-hazard",
+        "label": "Pet Hazard",
+        "value": "Toxic To Touch"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      }
+    ],
+    "title": "Yellow Calla Lily",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/99d6dfb77a5c--pl-CalleLilyYellow-4IN-po-grower-c094c6.jpg?v=1653510198",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/99d6dfb77a5c--pl-CalleLilyYellow-4IN-po-lr-coco-968514.jpg?v=1653510718",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/99d6dfb77a5c--pl-CalleLilyYellow-4IN-po-basket-0ce67b.jpg?v=1653510776",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/99d6dfb77a5c--pl-CalleLilyYellow-4IN-po-cer-white-338bf7.jpg?v=1653510700",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      }
+    ]
+  }
+}

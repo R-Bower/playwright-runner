@@ -1,0 +1,76 @@
+{
+  "data": {
+    "description": [
+      "If you dream of waking up to a sweet aromatic fragrance with large, lush blooms, this plant is an excellent addition to the patio! The Gardenia Jasminoides 'Veitchii' or Cape Jasmine can bloom from mid-spring to fall. They are a great evergreen addition outside in 8-11 planting zones or an indoor plant in the winter months. Add this gorgeous specimen to your repertoire.",
+      "May or may not ship with bloom or bud - typically blooms mid-spring to fall!"
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "Plays Hard to Get"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "8\" to 12\" W 16\" to 24\" H"
+      }
+    ],
+    "title": "Gardenia Veitchii",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/6fcc7397496a--pl-GardeniaVeitchii-1Gal-po-grower-41703f.jpg?v=1654791501",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$54.00"
+          }
+        ],
+        "sizeId": "oneGallon",
+        "sizeLabel": "1G"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/6fcc7397496a--pl-everbloobingGardenia-5GAL-po-grower-63e383.jpg?v=1630437045",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$98.00"
+          }
+        ],
+        "sizeId": "fiveGallon",
+        "sizeLabel": "5G"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/6fcc7397496a--Gardenia-Grower-10-33a509.jpg?v=1622048812",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$118.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/6fcc7397496a--Gardenia-LRCoco-10-6c28ee.jpg?v=1622048926",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$138.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/6fcc7397496a--Gardenia-Basket-10-ea1003.jpg?v=1622048848",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$138.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

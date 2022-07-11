@@ -1,0 +1,123 @@
+{
+  "data": {
+    "description": [
+      "Dracaena Warneckii is as easy to care for as they come. Their dramatic form makes for an interesting floor or desk plant in your Green Space. Although tropical by nature, they adapt beautifully to home and indoor conditions with little care. The Young White Bird specimens are full of upright leaves and develop canes as they grow. Their dark-green leaves are naturally shiny and highlighted with striking white stripes."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "6\" to 8\" W 8\" to 10\" H"
+      }
+    ],
+    "title": "White Stripe Dragon Tree (Dracaena)",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/554149556bba--pl-dracaneacanewarnekiiwhitebird-4IN-po-grower-a759ec.jpg?v=1637172864",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/554149556bba--pl-dracaneacanewarnekiiwhitebird-4IN-po-lr-coco-dfa4d3.jpg?v=1637173043",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/554149556bba--pl-dracaneacanewarnekiiwhitebird-4IN-po-basket-95b3b1.jpg?v=1637173103",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/554149556bba--pl-dracaneacanewarnekiiwhitebird-4IN-po-cer-white-08dd6e.jpg?v=1637172902",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/554149556bba--WhiteStripeDragon-Grower-6-2b5a39.jpg?v=1631736177",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/554149556bba--WhiteStripeDragon-LRCoco-6-1eddac.jpg?v=1631736319",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/554149556bba--WhiteStripeDragon-Basket-6-b5652a.jpg?v=1631736356",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/554149556bba--WhiteStripeDragon-White-6-c3b637.jpg?v=1631736196",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/554149556bba--pl-WhiteStripeDragon-8IN-po-grower-7d1b3d.jpg?v=1629488295",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$86.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/554149556bba--pl-WhiteStripeDragon-8IN-po-lr-coco-da83bf.jpg?v=1630443764",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$102.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/554149556bba--pl-WhiteStripeDragon-8IN-po-basket-d8d8a5.jpg?v=1629488367",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$102.00"
+          }
+        ],
+        "sizeId": "large",
+        "sizeLabel": "L"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/554149556bba--pl-WhiteStripeDragon-8IN-po-grower-7d1b3d.jpg?v=1629488295",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$118.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

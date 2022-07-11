@@ -1,0 +1,124 @@
+{
+  "data": {
+    "description": [
+      "The leading commercial variety of Sansevieria, known and grown for the hemp-like fiber in the leaves. They are an interesting and attractive plant that is also durable for a wide range of conditions. They are an easy plant to care for and make for a great addition to your personal green space. Species of the Sansevieria genus are recommended for air purification – particularly within the home and office.",
+      "Fun fact: Under perfect conditions, a snake plant may produce a bloom. Flowers are born in large clusters and are generally white with a greenish tinge. They emit a sweet floral fragrance that can fill a room. They won't bloom with any regularity, as most bud just once every several years."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "4\" to 5\" W 9\" to 15\" H"
+      }
+    ],
+    "title": "Zeylanica Snake Plant",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/33c7046d41c3--SanseveriaLaurentii-Grower-4-ea93a7.jpg?v=1622126645",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/33c7046d41c3--SanseveriaLaurentii-LRCoco-4-fe9bbe.jpg?v=1631738495",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/33c7046d41c3--SanseveriaLaurentii-Basket-4-ebca4a.jpg?v=1631738421",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/33c7046d41c3--SanseveriaLaurentii-White-4-3faa4d.jpg?v=1622126668",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/33c7046d41c3--pl-zeylanicaSnakePlant-6IN-po-lr-coco-3b5a50.jpg?v=1631820863",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/33c7046d41c3--pl-zeylanicaSnakePlant-6IN-po-cer-white-9f62d9.jpg?v=1631820769",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/33c7046d41c3--pl-SansevieriatrifasciataZeylanica-8IN-po-grower-a60f21.jpg?v=1629487437",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$86.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/33c7046d41c3--pl-SansevieriatrifasciataZeylanica-8IN-po-lr-coco-c59403.jpg?v=1629487521",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$102.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/33c7046d41c3--pl-SansevieriatrifasciataZeylanica-8IN-po-can-65c945.jpg?v=1629487595",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$102.00"
+          }
+        ],
+        "sizeId": "large",
+        "sizeLabel": "L"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/33c7046d41c3--LivelyRoot-Shoot2-10IN-Grower-b1a9f0.jpg?v=1611856857",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$118.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/33c7046d41c3--SanseveriaLaurentii-10IN-Basket-Natural-9bbf09.jpg?v=1611856946",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$138.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

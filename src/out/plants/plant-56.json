@@ -1,0 +1,81 @@
+{
+  "data": {
+    "description": [
+      "A little shorter and a little broader, this Snake Plant still has the beautiful light green leaves with mottled silver but adds a bit of extra gold around the edges for good measure. Extremely adaptable and tough as nails when it comes to care, this is one of the best (and easiest) plants to gift because they look good anywhere and is happy even in the lowest of light. Extra points for air purification, too."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "4\" to 5\" W 8\" to 10\" H"
+      }
+    ],
+    "title": "Futura Superba Snake Plant",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/c11b64c7a19f--pl-SuperbaSnakePlant-4IN-po-grower-8edb50.jpg?v=1639612887",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/c11b64c7a19f--SanseveriaFuturaSuperba-LRCoco-4IN-15b1cc.jpg?v=1624474999",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/c11b64c7a19f--Sanseveria-Basket-4-e747a0.jpg?v=1631812291",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/c11b64c7a19f--pl-SuperbaSnakePlant-6IN-po-grower-92714e.jpg?v=1643047351",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/c11b64c7a19f--pl-SuperbaSnakePlant-6IN-po-lr-coco-e02050.jpg?v=1643047509",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/c11b64c7a19f--pl-SuperbaSnakePlant-6IN-po-lr-basket-ecf9ca.jpg?v=1643047552",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/c11b64c7a19f--pl-SuperbaSnakePlant-6IN-po-cer-white-339736.jpg?v=1643047378",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}

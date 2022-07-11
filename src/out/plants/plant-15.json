@@ -1,0 +1,51 @@
+{
+  "data": {
+    "description": [
+      "A popular houseplant for more than three hundred years, the lady palm (Rhapis Excelsa) instantly brings elegance into any room. They are one of our indoor and outdoor plants — they can grow happily on your patio if you live in USDA hardiness zones 8b through 12. They grow from multiple stems and have fan-shaped fronds, which give them a truly unique look. Not only are they beautiful, but they are also low maintenance too."
+    ],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "10\" to 14\" W 24\" to 36\" H"
+      }
+    ],
+    "title": "Lady Palm",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2ccee7746fd4--pl-lady-palm-10IN-po-grower-317d72.jpg?v=1627946857",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$118.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2ccee7746fd4--pl-lady-palm-10IN-po-lr-coco-db59af.jpg?v=1627946934",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$138.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/2ccee7746fd4--pl-lady-palm-10IN-po-basket-1e5f92.jpg?v=1627946888",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$138.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

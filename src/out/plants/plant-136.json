@@ -1,0 +1,45 @@
+{
+  "data": {
+    "description": [
+      "The Cordyline Red Sensation's dark stripes of pink to red burgundy leaves a grassy tropical look. This indoor plant is notably tough and therefore requires very little maintenance. The exotic colored palm tree-like growth makes a great focal point in the landscape or containers. Bring inside and enjoy its color up close in a brightly lit room for an accessory piece."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "10\" to 14\" W 24\" to 32\" H"
+      }
+    ],
+    "title": "Cordyline Australis Red Sensation",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/4a0576737b7c--Cordyline-PurpleSensation-10IN-Grower-6a4825.jpg?v=1611512122",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$118.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/4a0576737b7c--CordylinePurpleSensation-10IN-Basket-Natural-e2953d.jpg?v=1611512217",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$138.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

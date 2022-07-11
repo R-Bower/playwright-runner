@@ -1,0 +1,75 @@
+{
+  "data": {
+    "description": [
+      "Brighten up any space with the Hawaiian Sunshine dragon tree. They are an indoor plant that thrives in medium light levels, with colorful and spiky leaves that bring drama to any space. With stripes of dark and vivid green, as well as bright yellow, it is easy to see where they get their Hawaiian Sunshines-inspired name. Adaptable, easy to care for, and air purifying, they are the ideal addition to your desk at work. The Hawaiian Sunshine Dragon Tree (aka Dracaena warneckii Hawaiian Sunshine) is also easy to care for which makes them perfect for beginners! Their beautiful green leaves with yellow stripes will add some zing to any room or patio as well."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "8\" to 14\" W 10\" to 16\" H"
+      }
+    ],
+    "title": "Hawaiian Sunshine Dragon Tree (Dracaena)",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/ed5056f69e95--pl-DracaenaHawaiianSunshine-4IN-grower-7751f8.jpg?v=1647709745",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/ed5056f69e95--pl-DracaenaHawaiianSunshine-4IN-lr-coco-19a484.jpg?v=1647709849",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/ed5056f69e95--pl-DracaenaHawaiianSunshine-4IN-basket-fecea1.jpg?v=1647709902",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/ed5056f69e95--pl-Unknown1-8IN-po-grower-e40c6a.jpg?v=1630445734",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$86.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/ed5056f69e95--pl-Unknown1-8IN-po-lr-coco-c21b8f.jpg?v=1630445755",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$102.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/ed5056f69e95--pl-Unknown1-8IN-po-basket-46d13a.jpg?v=1630445765",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$102.00"
+          }
+        ],
+        "sizeId": "large",
+        "sizeLabel": "L"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "data": {
+    "description": [
+      "AKA The \"Most likely to survive a zombie apocalypse plant collection.\" This group of plants contains the easiest care houseplants around.  They don't require much light or water and can survive almost anything or *anybody.*",
+      "Whether you’re starting a plant family or building on it, these hand-selected easy to care for plants are perfect for less-than-ideal conditions. All four of these plants are incredibly easy, will adapt to nearly any available light, and are extremely forgiving. Their easy-going nature makes them perfect for office spaces, dorm rooms, and beginners.",
+      "Collection Contains:"
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "5\" to 5\" W 6\" to 10\" H"
+      }
+    ],
+    "title": "Easy Peasy Plant Collection",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/e1282b0bfc71--EasyPeazy-Grower-4-1ace34.jpg?v=1625777689",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$129.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/e1282b0bfc71--EasyPeazy-LRCoco-4-b1b66c.jpg?v=1625777729",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$169.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "data": {
+    "description": [],
+    "metadata": [
+      {
+        "id": "pet-hazard",
+        "label": "Pet Hazard",
+        "value": "Toxic To Touch"
+      }
+    ],
+    "title": "Ficus Yellow Gem Column",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b9b430c0da5c--pl-FicusYellowGemColumn-10IN-pl-grower-92173c.jpg?v=1651179421",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$104.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b9b430c0da5c--pl-FicusYellowGemColumn-10IN-pl-lr-gray-1168d0.jpg?v=1651179459",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$124.00"
+          }
+        ],
+        "sizeId": "extra-large",
+        "sizeLabel": "XL"
+      }
+    ]
+  }
+}

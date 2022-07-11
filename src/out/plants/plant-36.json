@@ -1,0 +1,112 @@
+{
+  "data": {
+    "description": [
+      "With its silvery grey and cream-colored markings, the variegated English ivy glacier is a sought-after houseplant. Luckily we have them available for delivery! A natural climber that can be trained along walls, doorframes, or bookcases, they work well as a hanging plant. They are tolerant to low levels of light and will instantly brighten up dull parts of your home.",
+      "***Enjoy your plant hanging in the original grower pot, or remove the hanger and admire them in the decorative pot of your choosing! Either one is a great display!"
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "6\" to 8\" W 8\" to 10\" H"
+      }
+    ],
+    "title": "English Ivy Glacier",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b1aa6173b67e--HederaGlacierVariegata-Grower-4-b00161.jpg?v=1623713956",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$38.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b1aa6173b67e--HederaGlacierVariegata-LRCoco-4-98ea28.jpg?v=1623714025",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b1aa6173b67e--Hedera-Glaciervariagata-4IN-Basket-Natural-ae2957.jpg?v=1611594298",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b1aa6173b67e--HederaGlacierVariegata-White-4-fba1ad.jpg?v=1623714107",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b1aa6173b67e--pl-EnglishIvyGlacier-6IN-po-Grower2-0ded27.jpg?v=1637171661",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b1aa6173b67e--pl-EnglishIvyGlacier-6IN-po-lr-coco-a79c27.jpg?v=1637172012",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b1aa6173b67e--pl-EnglishIvyGlacier-4IN-po-cer-basket-4f6ae6.jpg?v=1637171784",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b1aa6173b67e--pl-EnglishIvyGlacier-6IN-po-cer-white-51e638.jpg?v=1637171483",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b1aa6173b67e--pl-hedera-glacier-8IN-po-grower-2-61deab.jpg?v=1627751291",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$86.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b1aa6173b67e--pl-hedera-glacier-8IN-po-lr-coco-994f68.jpg?v=1627751386",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$102.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/b1aa6173b67e--pl-hedera-glacier-8IN-po-basket-df1a2a.jpg?v=1627751466",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$102.00"
+          }
+        ],
+        "sizeId": "large",
+        "sizeLabel": "L"
+      }
+    ]
+  }
+}

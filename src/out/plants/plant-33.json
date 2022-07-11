@@ -1,0 +1,26 @@
+{
+  "data": {
+    "description": [
+      "Have a pet but also want a dreamy plant collection? Our quarterly pet-friendly plant subscription will be a delight whether you are already a plant enthusiast or just starting to introduce plants to your pets. Subscribers receive a pet-friendly plant in a 6” diameter grow pot delivered to their door every quarter. This subscription is made for anyone who loves plants and wants to be extra cautious when it comes to keeping their pet safe"
+    ],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      }
+    ],
+    "title": "Quarterly Pet Friendly Plant Subscription",
+    "variants": [
+      {
+        "imgSrc": "//cdn.shopify.com/s/files/1/0068/4215/5090/products/Palm_PetFriendly_1024x.jpg?v=1630590484",
+        "price": "$40.00"
+      }
+    ]
+  }
+}

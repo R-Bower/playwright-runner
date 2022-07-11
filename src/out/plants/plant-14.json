@@ -1,0 +1,94 @@
+{
+  "data": {
+    "description": [
+      "Our spider plants bring the lush jungles of Southern Africa to your home. One of the best air purifying plants, we love them for their spiky variegated foliage. They are easy to care for and look great set on a table-top or hung from a macrame sling. You can even keep them out on the patio during summer — just remember to bring them inside if there's any risk of frost.",
+      "Our spiky and spectacular Spider plant (Chlorophytum Comosum) will also bring instant attitude to any room in your home. With lime green and yellow variegated leaves, this house plant is bright and beautiful. They are an excellent air purifier and are super easy to care for."
+    ],
+    "metadata": [
+      {
+        "id": "pet-safe",
+        "label": "Pet Safe",
+        "value": "Yes"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "6\" to 6\" W 10\" to 14\" H"
+      }
+    ],
+    "title": "Spider Plant",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/ea7cdbe05bfe--SpiderPlant-LRCoco-4-e575db.jpg?v=1622127748",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/ea7cdbe05bfe--SpiderPlant-Basket-4-e2af8c.jpg?v=1622127679",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$48.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/ea7cdbe05bfe--SpiderPlant-White-4-80e15a.jpg?v=1622127647",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$50.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/ea7cdbe05bfe--SpiderPlant-Black-6-590283.jpg?v=1631737125",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$50.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/ea7cdbe05bfe--SpiderPlant-LRCoco-6-47d9fb.jpg?v=1622127935",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/ea7cdbe05bfe--SpiderPlant-Basket-6-c8ecba.jpg?v=1622127617",
+            "planterId": "planter-naturals-basket",
+            "planterLabel": "Baskets",
+            "price": "$62.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/ea7cdbe05bfe--SpiderPlant-White-6-8607f9.jpg?v=1622127584",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$64.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/ea7cdbe05bfe--LivelyRoot-Shoot2-10IN-Grower-4fdbfc.jpg?v=1611775945",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$86.00"
+          }
+        ],
+        "sizeId": "large",
+        "sizeLabel": "L"
+      }
+    ]
+  }
+}

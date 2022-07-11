@@ -1,0 +1,70 @@
+{
+  "data": {
+    "description": [
+      "Get rid of your arachnophobia and ophidiophobia by learning to love spiders and snakes in plant form!",
+      "Our snake and spider plant bundle for delivery gives you an instant greenery fix. They include two spider plants (Chlorophytum Comosum) and two snake plants (Sansevieria Species), named because of the unique shape of their leaves. Easy to care for, they're the perfect starter set. Cluster them together to create your own mini jungle or separate them out for four statement pieces. Just keep them out of strong, direct sunlight."
+    ],
+    "metadata": [
+      {
+        "id": "pet-warning",
+        "label": "Pet Warning",
+        "value": "Toxic To Ingest"
+      },
+      {
+        "id": "care-level",
+        "label": "Care Level",
+        "value": "I'm Easy"
+      },
+      {
+        "id": "overall-size",
+        "label": "Overall Size",
+        "value": "6\" to 12\" W 10\" to 16\" H"
+      }
+    ],
+    "title": "Overcome Your Fears Plant Bundle",
+    "variants": [
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/79c5270ccacb--SnakesAndSpiders-Grower-4-dfdd79.jpg?v=1621980157",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$129.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/79c5270ccacb--SnakesAndSpiders-LRCoco-4-adddf0.jpg?v=1621980203",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$169.00"
+          }
+        ],
+        "sizeId": "small",
+        "sizeLabel": "S"
+      },
+      {
+        "planters": [
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/79c5270ccacb--SnakesandSpiders-Grower-6-757a6e.jpg?v=1624571606",
+            "planterId": "grower",
+            "planterLabel": "Grower",
+            "price": "$187.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/79c5270ccacb--SnakesandSpiders-LRCoco-6-f54557.jpg?v=1624571743",
+            "planterId": "planter-eco-planter",
+            "planterLabel": "Eco Pot",
+            "price": "$235.00"
+          },
+          {
+            "imgSrc": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/79c5270ccacb--SnakesandSpiders-White-6-745c2f.jpg?v=1624571704",
+            "planterId": "planter-ceramic",
+            "planterLabel": "Ceramic",
+            "price": "$243.00"
+          }
+        ],
+        "sizeId": "medium",
+        "sizeLabel": "M"
+      }
+    ]
+  }
+}
